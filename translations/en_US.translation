@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- BOTanicals --></label>
+        <name>BOTanicals</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Bike Card --></label>
+        <name>Bike_Card</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Dreamhouse --></label>
+        <name>Dreamhouse</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- External Orders --></label>
+        <name>External_Orders</name>
+    </customApplications>
+    <customLabels>
+        <label><!-- Access Your Tools In One Place tip content --></label>
+        <name>CodeBuilder__accessYourToolsInOnePlaceContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Access Your Tools In One Place tip heading --></label>
+        <name>CodeBuilder__accessYourToolsInOnePlaceHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- prefix for aria assistive text for the setup assistant --></label>
+        <name>CodeBuilder__assistiveLabelPrompt</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__authorizeAnOrgTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Authorize with Github Button Label --></label>
+        <name>CodeBuilder__authorizeWithGithubButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Build with familiarity and flexibility tip content --></label>
+        <name>CodeBuilder__buildWithFamiliarityContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Build with familiarity and flexibility tip heading --></label>
+        <name>CodeBuilder__buildWithFamiliarityHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Button Label --></label>
+        <name>CodeBuilder__cancelButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel waitlist access request button text --></label>
+        <name>CodeBuilder__cancelWaitlistAccessRequestButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Waitlist Modal - Title --></label>
+        <name>CodeBuilder__cancelWaitlistConfirmationTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Waitlist Modal - Cancel Request Button --></label>
+        <name>CodeBuilder__cancelWaitlistModalCancelRequestButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Waitlist Modal - Close Button --></label>
+        <name>CodeBuilder__cancelWaitlistModalCloseButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Workspace Modal - Confirmation text --></label>
+        <name>CodeBuilder__cancelWaitlistModalConfirmationMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Workspace Modal - Body Text --></label>
+        <name>CodeBuilder__cancelWaitlistModalMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- carousel slide thank you beta heading --></label>
+        <name>CodeBuilder__carouselSlideThankYouBetaHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- carousel slide thank you beta message --></label>
+        <name>CodeBuilder__carouselSlideThankYouBetaMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- carousel slide welcome heading --></label>
+        <name>CodeBuilder__carouselSlideWelcomeHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- carousel slide welcome message --></label>
+        <name>CodeBuilder__carouselSlideWelcomeMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cbResourcePanelTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cbTakeTheTourTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__changeColorThemesTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cleanUpOrgListTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- About Code Builder Introduction content --></label>
+        <name>CodeBuilder__codeBuilderIntroductionContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- About Code Builder introduction card heading --></label>
+        <name>CodeBuilder__codeBuilderIntroductionHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Collaborate Seamlessly tip content --></label>
+        <name>CodeBuilder__collaborateSeamlesslyContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Collaborate Seamlessly tip heading --></label>
+        <name>CodeBuilder__collaborateSeamlesslyHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- connect to sandbox button label --></label>
+        <name>CodeBuilder__connectToDevelopmentOrgButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TO BE DELETED --></label>
+        <name>CodeBuilder__connectToSalesforceOrgButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- connect to sandbox button label --></label>
+        <name>CodeBuilder__connectToSandboxOrgButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpAllCommandsTipMacOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpAllCommandsTipWinLinuxOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpCommandSearchTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- command palette tip --></label>
+        <name>CodeBuilder__cpGitHubTipMacOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- command palette tip for windows or linux OS --></label>
+        <name>CodeBuilder__cpGitHubTipWinLinuxOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpSfdxCommandsTipMacOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpSfdxCommandsTipWinLinuxOs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__cpWelcomePageTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create New Environment --></label>
+        <name>CodeBuilder__createNewEnvironment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__createSoqlQueryTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Workspace Modal - Back Button Label --></label>
+        <name>CodeBuilder__createWorkspaceModalBackButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Workspace Modal - Create Button Label --></label>
+        <name>CodeBuilder__createWorkspaceModalCreateButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Workspace Modal Heading --></label>
+        <name>CodeBuilder__createWorkspaceModalHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Creating Environment Button Label --></label>
+        <name>CodeBuilder__creatingEnvironmentButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Define New Project Form Heading --></label>
+        <name>CodeBuilder__defineNewProjectFormHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Define New Project Name Input Label --></label>
+        <name>CodeBuilder__defineNewProjectNameInputLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Define New Project Name Input Placeholder --></label>
+        <name>CodeBuilder__defineNewProjectNameInputPlaceHolder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Button Label --></label>
+        <name>CodeBuilder__deleteButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Workspace Modal - Body Text --></label>
+        <name>CodeBuilder__deleteWorkspaceModalConfirmationMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Workspace Modal - Title --></label>
+        <name>CodeBuilder__deleteWorkspaceModalTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__devOpsCenterTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__editorLayoutTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card beta is closed heading --></label>
+        <name>CodeBuilder__emptyStateCardBetaClosedHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card beta is closed message --></label>
+        <name>CodeBuilder__emptyStateCardBetaClosedMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- heading when Code Builder Beta is over --></label>
+        <name>CodeBuilder__emptyStateCardBetaOverHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- message when Code Builder Beta is over --></label>
+        <name>CodeBuilder__emptyStateCardBetaOverMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- link text value in message when Code Builder Beta is over --></label>
+        <name>CodeBuilder__emptyStateCardBetaOverMessageLink</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- button label to enable Code Builder --></label>
+        <name>CodeBuilder__emptyStateCardEnableCodeBuilderButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- header when Code Builder is not enabled --></label>
+        <name>CodeBuilder__emptyStateCardEnableCodeBuilderHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- message when Code Builder is not enabled --></label>
+        <name>CodeBuilder__emptyStateCardEnableCodeBuilderMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- link text value in message when Code Builder is not enabled --></label>
+        <name>CodeBuilder__emptyStateCardEnableCodeBuilderMessageLink</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card get started button text --></label>
+        <name>CodeBuilder__emptyStateCardGetStartedButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Join the Beta button text --></label>
+        <name>CodeBuilder__emptyStateCardJoinBetaButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card trial over button label --></label>
+        <name>CodeBuilder__emptyStateCardNewTrialButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card user is on waitlist heading --></label>
+        <name>CodeBuilder__emptyStateCardOnWaitlistHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card user is on waitlist Message --></label>
+        <name>CodeBuilder__emptyStateCardOnWaitlistMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card setup Environment heading --></label>
+        <name>CodeBuilder__emptyStateCardSetupEnvironmentHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card trial over heading --></label>
+        <name>CodeBuilder__emptyStateCardTrialOverHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card trial over message --></label>
+        <name>CodeBuilder__emptyStateCardTrialOverMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty State Card Welcome Heading --></label>
+        <name>CodeBuilder__emptyStateCardWelcomeHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty state card welcome message --></label>
+        <name>CodeBuilder__emptyStateCardWelcomeMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading Page - environment deleted --></label>
+        <name>CodeBuilder__environmentDeleted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading Page - environment error --></label>
+        <name>CodeBuilder__environmentError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- show the envrionment first created info --></label>
+        <name>CodeBuilder__environmentFirstCreatedLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Environment Name Input Label --></label>
+        <name>CodeBuilder__environmentNameInputLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Environment Name Input Placholder --></label>
+        <name>CodeBuilder__environmentNameInputPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading Page - environment not found --></label>
+        <name>CodeBuilder__environmentNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- environment not found error prompt title --></label>
+        <name>CodeBuilder__environmentNotFoundTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Information Prompt - Acknowledge Button --></label>
+        <name>CodeBuilder__errorInfoPromptButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Information Prompt - Show Details --></label>
+        <name>CodeBuilder__errorInfoPromptDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Information Prompt - Heading --></label>
+        <name>CodeBuilder__errorInfoPromptHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Existing Project Button Name --></label>
+        <name>CodeBuilder__existingProjectBtnName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step provide feedback link --></label>
+        <name>CodeBuilder__feedbackLinkText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step provide feedback message --></label>
+        <name>CodeBuilder__feedbackMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step provide feedback message bold --></label>
+        <name>CodeBuilder__feedbackMessageEmphasis</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error when selecting a cross-object fieldsset is not allowed and attempted. --></label>
+        <name>CodeBuilder__fflib_QueryFactory_crossobject_fieldsets_not_allowed_error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error when selecting a field set for a different sobject type. --></label>
+        <name>CodeBuilder__fflib_QueryFactory_fieldset_wrong_sobject_error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Presented when attempting to nest subqueries. --></label>
+        <name>CodeBuilder__fflib_QueryFactory_recursive_subquery_error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Presented when attempting to create a subquery from an invalid relationship. --></label>
+        <name>CodeBuilder__fflib_QueryFactory_subquery_invalid_relationship</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_insertable --></label>
+        <name>CodeBuilder__fflib_security_error_field_not_insertable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_readable --></label>
+        <name>CodeBuilder__fflib_security_error_field_not_readable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_updateable --></label>
+        <name>CodeBuilder__fflib_security_error_field_not_updateable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_deletable --></label>
+        <name>CodeBuilder__fflib_security_error_object_not_deletable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_insertable --></label>
+        <name>CodeBuilder__fflib_security_error_object_not_insertable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_readable --></label>
+        <name>CodeBuilder__fflib_security_error_object_not_readable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_updateable --></label>
+        <name>CodeBuilder__fflib_security_error_object_not_updateable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Generic exception --></label>
+        <name>CodeBuilder__genericWorkspaceManagerExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Get Started In Minutes tip content --></label>
+        <name>CodeBuilder__getStartedInMinutesContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Get Started In Minutes tip heading --></label>
+        <name>CodeBuilder__getStartedInMinutesHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__haveQuestionsTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Header - Code Icon Alternate Text --></label>
+        <name>CodeBuilder__headerCodeIconAltText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Header - Dashboard Title --></label>
+        <name>CodeBuilder__headerDashboard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- show the last accessed info --></label>
+        <name>CodeBuilder__lastAccessedLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Launch Code Builder button text --></label>
+        <name>CodeBuilder__launchCodeBuilderButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Launch Code Builder card heading --></label>
+        <name>CodeBuilder__launchCodeBuilderHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- note content for launching code builder --></label>
+        <name>CodeBuilder__launchCodeBuilderNoteContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The title of the Loading Page application that shows in the browser tab --></label>
+        <name>CodeBuilder__loadingAuraPageTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page heading --></label>
+        <name>CodeBuilder__loadingPageHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading Page - reached in error --></label>
+        <name>CodeBuilder__loadingPageNoLaunch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page subheading --></label>
+        <name>CodeBuilder__loadingPageSubheading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Maximum number of workspaces limit reached for this user --></label>
+        <name>CodeBuilder__maxWorkspaceLimitExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal - Close Button Alt Text --></label>
+        <name>CodeBuilder__modalCloseIconAltText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name Input Validation Rules --></label>
+        <name>CodeBuilder__nameInputValidationRules</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Or Existing Project Content --></label>
+        <name>CodeBuilder__newOrExistingProjectFormContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Or Existing Project Heading --></label>
+        <name>CodeBuilder__newOrExistingProjectFormHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Project Button Name --></label>
+        <name>CodeBuilder__newProjectBtnName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next Button Label --></label>
+        <name>CodeBuilder__nextButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No workspace found for given url exception --></label>
+        <name>CodeBuilder__noWorkspaceFoundByUrlExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No workspace found exception --></label>
+        <name>CodeBuilder__noWorkspaceFoundExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Missing remote resource id exception --></label>
+        <name>CodeBuilder__noWorkspaceResourceIdExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__openDocumentationTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Alias Modal Content Message --></label>
+        <name>CodeBuilder__orgAliasModalContentMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Alias Modal Content Title --></label>
+        <name>CodeBuilder__orgAliasModalContentTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Alias Input Label --></label>
+        <name>CodeBuilder__orgAliasModalInputLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Alias Input Placeholder --></label>
+        <name>CodeBuilder__orgAliasModalInputPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__orgBrowserTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Connected Button Label --></label>
+        <name>CodeBuilder__orgConnectedButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Disconnect Button Label --></label>
+        <name>CodeBuilder__orgDisconnectButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- org login form emphasis message --></label>
+        <name>CodeBuilder__orgLoginFormContentEmphasisMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- org login form content message --></label>
+        <name>CodeBuilder__orgLoginFormContentMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Org Login Form Divider Message --></label>
+        <name>CodeBuilder__orgLoginFormDividerMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- org login form title --></label>
+        <name>CodeBuilder__orgLoginFormTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__orgPickerTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Permissions exception details --></label>
+        <name>CodeBuilder__permissionsExceptionDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Permissions exception label --></label>
+        <name>CodeBuilder__permissionsExceptionLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Permissions exception name --></label>
+        <name>CodeBuilder__permissionsExceptionName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Project Type Template Label --></label>
+        <name>CodeBuilder__projectTypeTemplateLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Project Type Template Place Holder --></label>
+        <name>CodeBuilder__projectTypeTemplatePlaceHolder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- text to add link for docs --></label>
+        <name>CodeBuilder__readDocsContentText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- link text for docs --></label>
+        <name>CodeBuilder__readDocsLinkText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rename Button Label --></label>
+        <name>CodeBuilder__renameButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rename Environment Modal Content Title --></label>
+        <name>CodeBuilder__renameEnvironmentModalContentTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rename Success Message --></label>
+        <name>CodeBuilder__renameSuccessMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- reset workspace modal cancel button --></label>
+        <name>CodeBuilder__resetWorkspaceModalCancelButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- reset workspace modal content --></label>
+        <name>CodeBuilder__resetWorkspaceModalContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- reset workspace modal header --></label>
+        <name>CodeBuilder__resetWorkspaceModalHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- reset workspace modal reset button --></label>
+        <name>CodeBuilder__resetWorkspaceModalResetButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Resource API error response exception --></label>
+        <name>CodeBuilder__resourceApiResponseExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__resourcePanelTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__salesforceLanguagesTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal - Save Button --></label>
+        <name>CodeBuilder__saveButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step explore documentation title --></label>
+        <name>CodeBuilder__setupAssistantStepDocumentationTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step explore feedback title --></label>
+        <name>CodeBuilder__setupAssistantStepFeedbackTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step visit trailhead title --></label>
+        <name>CodeBuilder__setupAssistantStepTrailheadTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- setup assistant step watch video title --></label>
+        <name>CodeBuilder__setupAssistantStepVideoTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__sfExtensionsDocTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control Form Heading --></label>
+        <name>CodeBuilder__sourceControlFormHeading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control Input Label --></label>
+        <name>CodeBuilder__sourceControlInputLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control Input Place Holder --></label>
+        <name>CodeBuilder__sourceControlInputPlaceHolder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control Invalid URL Message --></label>
+        <name>CodeBuilder__sourceControlInvalidUrlMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Private repository message --></label>
+        <name>CodeBuilder__sourceControlPrivateRepoMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Repository found message --></label>
+        <name>CodeBuilder__sourceControlRepoFoundMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Repository not found message --></label>
+        <name>CodeBuilder__sourceControlRepoNotFoundMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control SSH Message --></label>
+        <name>CodeBuilder__sourceControlSSHMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Source Control Input Field Level Help --></label>
+        <name>CodeBuilder__sourceControlUrlFieldLevelHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- question to add more ducoments --></label>
+        <name>CodeBuilder__stillHaveQuestionText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- loading page tip --></label>
+        <name>CodeBuilder__submitFeedbackTip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label text for loading page tips --></label>
+        <name>CodeBuilder__tipsLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Access token exception --></label>
+        <name>CodeBuilder__tokenExceptionMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Trailblazer Group link text --></label>
+        <name>CodeBuilder__trailblazerGroupLinkText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Usage Data Parsing Exception --></label>
+        <name>CodeBuilder__usageDataParsingException</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Usage expires on {date} --></label>
+        <name>CodeBuilder__usageExpiresLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Usage Limit Reached Exception --></label>
+        <name>CodeBuilder__usageLimitReachedException</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blocked Code Builder access --></label>
+        <name>CodeBuilder__usageRemainingBlockedTooltip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 00:00 Hours Remaining --></label>
+        <name>CodeBuilder__usageRemainingHoursLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 20 hours of Code Builder access --></label>
+        <name>CodeBuilder__usageRemainingLimitTooltip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 00 Minutes Remaining --></label>
+        <name>CodeBuilder__usageRemainingMinutesLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Time Remaining --></label>
+        <name>CodeBuilder__usageRemainingNone</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unlimited Time Remaining --></label>
+        <name>CodeBuilder__usageRemainingUnlimited</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unlimited Code Builder access --></label>
+        <name>CodeBuilder__usageRemainingUnlimitedTooltip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Usage Waring Banner Message --></label>
+        <name>CodeBuilder__usageWarningBannerMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Warning label --></label>
+        <name>CodeBuilder__usageWarningLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Extra information for the user related to the usage warning --></label>
+        <name>CodeBuilder__usageWarningTooltip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Created --></label>
+        <name>CodeBuilder__workspaceCreated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Delete Success Message --></label>
+        <name>CodeBuilder__workspaceDeleteSuccessMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Delete Success Title --></label>
+        <name>CodeBuilder__workspaceDeleteSuccessTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace Card Body- Error Message --></label>
+        <name>CodeBuilder__workspaceErrorStateMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace Card Body- Error Info Text --></label>
+        <name>CodeBuilder__workspaceErrorStateMoreInfo</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Last Accessed --></label>
+        <name>CodeBuilder__workspaceLastAccessed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Not accessed yet --></label>
+        <name>CodeBuilder__workspaceLastAccessedNever</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Launch Button Label --></label>
+        <name>CodeBuilder__workspaceLaunchButtonLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Reset Success Message --></label>
+        <name>CodeBuilder__workspaceResetSuccessMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Show Menu Text --></label>
+        <name>CodeBuilder__workspaceShowMenuButtonAltText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DML exception during update --></label>
+        <name>CodeBuilder__workspaceUpdateDMLException</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - URL --></label>
+        <name>CodeBuilder__workspaceUrl</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Workspace - Spinner Text --></label>
+        <name>CodeBuilder__workspacesLoadingAltText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_BaseURL --></label>
+        <name>trlhdtips__tt_BaseURL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ConfimCancel --></label>
+        <name>trlhdtips__tt_ConfimCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ConfimOK --></label>
+        <name>trlhdtips__tt_ConfimOK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_EnterPackageId --></label>
+        <name>trlhdtips__tt_EnterPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_InvalidPackageId --></label>
+        <name>trlhdtips__tt_InvalidPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordFail --></label>
+        <name>trlhdtips__tt_ResetPasswordFail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordSuccess --></label>
+        <name>trlhdtips__tt_ResetPasswordSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordTitle --></label>
+        <name>trlhdtips__tt_ResetPasswordTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordWarning --></label>
+        <name>trlhdtips__tt_ResetPasswordWarning</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Bike Card --></label>
+        <name>Bike_Card</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Property Explorer --></label>
+        <name>Property_Explorer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Property Finder --></label>
+        <name>Property_Finder</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Quickstart --></label>
+        <name>Quickstart</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Settings --></label>
+        <name>Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Your Bike Selection --></label>
+        <name>Your_Bike_Selection</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Add_Generator_Product_to_Named_Opps</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Add_VIP_to_Description</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Case_Priority_is_High</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>ChatterMessage</name>
+            </textTemplates>
+        </flows>
+        <fullName>Check_New_Lead_for_Matching_Account</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Convert_to_Customer</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Copy_Account_Phone_to_New_Contact</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Create_Follow_Up_on_New_Prospect</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Create_Follow_Up_with_Decision_Maker</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>error2_text</name>
+                </fields>
+                <name>Error2</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>error3_text</name>
+                </fields>
+                <name>Error3</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>error4_text</name>
+                </fields>
+                <name>Error4</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>error5_text</name>
+                </fields>
+                <name>Error5</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>property_address</name>
+                </fields>
+                <name>address</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>error</name>
+                </fields>
+                <name>error_creating_records</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>navigate_to_record_lwc</name>
+                </fields>
+                <name>navigate_to_record_detail</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>fieldApiName</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>objectApiName</name>
+                        <value/>
+                    </inputParameters>
+                    <name>property_broker</name>
+                </fields>
+                <fields>
+                    <name>property_description</name>
+                </fields>
+                <fields>
+                    <name>property_name</name>
+                </fields>
+                <fields>
+                    <name>property_price</name>
+                </fields>
+                <name>new_property</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>number_of_baths</name>
+                </fields>
+                <fields>
+                    <name>number_of_beds</name>
+                </fields>
+                <fields>
+                    <name>property_tags</name>
+                </fields>
+                <name>property_details</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>accept</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>multiple</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>property_picture</name>
+                </fields>
+                <name>upload_picture</name>
+            </screens>
+        </flows>
+        <fullName>Create_property</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>columns</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>maxRowSelection</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>minRowSelection</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>selectionMode</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>shouldDisplayLabel</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Related_Contacts_Data_Table</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>columns</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>maxRowSelection</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>minRowSelection</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>selectionMode</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Related_Opportunity_Data_Table</name>
+                </fields>
+                <name>Display_Related_Information</name>
+            </screens>
+        </flows>
+        <fullName>Fetch_Related_Records</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Load_Sample_Data</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Onboarding_Project_Initiation</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>chatterBody</name>
+            </textTemplates>
+        </flows>
+        <fullName>Post_to_Chatter</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>ChatterBody</name>
+            </textTemplates>
+        </flows>
+        <fullName>Post_to_Chatter_on_Account_Change_en_send_email</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Review_Opportunity_with_Account_Owner</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Set_Case_Priority</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Subflow_Create_Generator_Opp_Product</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>addressLabel</name>
+                        <value/>
+                    </inputParameters>
+                    <name>test4</name>
+                </fields>
+                <name>Test5</name>
+            </screens>
+        </flows>
+        <fullName>Test6</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>test1</name>
+                </fields>
+                <name>test11</name>
+            </screens>
+        </flows>
+        <fullName>Variables</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>S_149a89f6_e93f_4402_b3c5_24148bee75c0</name>
+            </choices>
+            <choices>
+                <name>S_3792e0ac_4617_447c_b1de_9c5075f6b9d1</name>
+            </choices>
+            <choices>
+                <name>S_895a92c9_a675_4047_bd25_4b67d875a37b</name>
+            </choices>
+            <choices>
+                <name>S_a0e9d086_3411_4d8f_950d_f2758a33fc68</name>
+            </choices>
+            <choices>
+                <name>S_f6dcd3bd_2efc_4cdd_a3d5_4fb54e458aac</name>
+            </choices>
+            <screens>
+                <fields>
+                    <name>S_55cf98c1_dc1a_4104_b385_89dab3632c94</name>
+                </fields>
+                <fields>
+                    <name>S_62185e3d_591b_4ade_9910_383fb5ff11cf</name>
+                </fields>
+                <name>surveyQuestionPage</name>
+            </screens>
+            <textTemplates>
+                <name>thankYouDescriptionTextTemplate</name>
+            </textTemplates>
+            <textTemplates>
+                <name>thankYouLabelTextTemplate</name>
+            </textTemplates>
+        </flows>
+        <fullName>customer_satisfaction</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>S_50a1d272_b234_4f92_a8fe_fa15dc797af4</name>
+                </fields>
+                <fields>
+                    <name>S_8b93e61a_35a5_435c_9c3d_30831d2252d6</name>
+                </fields>
+                <name>surveyQuestionPage</name>
+            </screens>
+            <textTemplates>
+                <name>thankYouDescriptionTextTemplate</name>
+            </textTemplates>
+            <textTemplates>
+                <name>thankYouLabelTextTemplate</name>
+            </textTemplates>
+        </flows>
+        <fullName>net_promoter_score</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>test</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>test2</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>test_chatter</fullName>
+    </flowDefinitions>
+    <prompts>
+        <name>PropertyFinder</name>
+        <promptVersions>
+            <name>Property Finder Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Finder Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Finder Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>PropertyExplorer</name>
+        <promptVersions>
+            <name>Property Explorer Step 4</name>
+            <stepNumber>4</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 5</name>
+            <stepNumber>5</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 6</name>
+            <stepNumber>6</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 7</name>
+            <stepNumber>7</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Explorer Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>Property</name>
+        <promptVersions>
+            <name>Property Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>Property Step 4</name>
+            <stepNumber>4</stepNumber>
+        </promptVersions>
+    </prompts>
+    <quickActions>
+        <label><!-- New Article --></label>
+        <name>KnowledgeArticlePreconfigured</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Orchestration Run Logs Spring &apos;24 --></description>
+        <label><!-- Orchestration Run Logs Spring &apos;24 --></label>
+        <name>flow_orchestration_log_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Run Log --></label>
+            <name>Orchestration Run Log</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Runs --></label>
+            <name>Orchestration Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Stage Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Stage Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_stage_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Stage Runs --></label>
+            <name>Orchestration Stage Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Step Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Step Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_step_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Step Runs --></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Work Items Spring &apos;24 --></description>
+        <label><!-- Orchestration Work Items Spring &apos;24 --></label>
+        <name>flow_orchestration_work_item_ootb_crt_two_four_eight</name>
+        <sections>
+            <columns>
+                <label><!-- Orchestration Step Run: Label --></label>
+                <name>Orchestration Step Run: Label</name>
+            </columns>
+            <columns>
+                <label><!-- Orchestration Step Run: Name --></label>
+                <name>Orchestration Step Run: Name</name>
+            </columns>
+            <columns>
+                <label><!-- Orchestration Step Run: Status --></label>
+                <name>Orchestration Step Run: Status</name>
+            </columns>
+            <label><!-- Orchestration Step Runs --></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Assigned Group or Queue --></label>
+                <name>Assigned Group or Queue</name>
+            </columns>
+            <columns>
+                <label><!-- Assigned User --></label>
+                <name>Assigned User</name>
+            </columns>
+            <label><!-- Orchestration Work Items --></label>
+            <name>Orchestration Work Items</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>

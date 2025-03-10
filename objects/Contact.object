@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <compactLayouts>
+        <fullName>test2</fullName>
+        <fields>Name</fields>
+        <fields>Title</fields>
+        <fields>AccountId</fields>
+        <fields>Phone</fields>
+        <fields>Email</fields>
+        <fields>MobilePhone</fields>
+        <fields>OwnerId</fields>
+        <fields>Level__c</fields>
+        <label>test2</label>
+    </compactLayouts>
+    <fields>
+        <fullName>Prequalifie__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Préqualifié ?</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <listViews>
+        <fullName>AllContacts</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All Contacts</label>
+    </listViews>
+    <listViews>
+        <fullName>BirthdaysThisMonth</fullName>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>CONTACT.BIRTHDATE</field>
+            <operation>equals</operation>
+            <value>THIS_MONTH</value>
+        </filters>
+        <label>Birthdays This Month</label>
+    </listViews>
+    <listViews>
+        <fullName>MyContacts</fullName>
+        <filterScope>Mine</filterScope>
+        <label>My Contacts</label>
+    </listViews>
+    <listViews>
+        <fullName>NewLastWeek</fullName>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>CONTACT.CREATED_DATE</field>
+            <operation>equals</operation>
+            <value>LAST_WEEK</value>
+        </filters>
+        <label>New Last Week</label>
+    </listViews>
+    <listViews>
+        <fullName>NewThisWeek</fullName>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>CONTACT.CREATED_DATE</field>
+            <operation>equals</operation>
+            <value>THIS_WEEK</value>
+        </filters>
+        <label>New This Week</label>
+    </listViews>
+</CustomObject>
