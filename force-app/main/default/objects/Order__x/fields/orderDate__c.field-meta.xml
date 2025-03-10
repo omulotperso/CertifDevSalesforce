@@ -3,6 +3,7 @@
     <fullName>orderDate__c</fullName>
     <description>orderDate</description>
     <externalDeveloperName>orderDate</externalDeveloperName>
+    <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>

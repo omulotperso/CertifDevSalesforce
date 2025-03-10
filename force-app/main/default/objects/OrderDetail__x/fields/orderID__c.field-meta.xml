@@ -3,6 +3,7 @@
     <fullName>orderID__c</fullName>
     <description>orderID</description>
     <externalDeveloperName>orderID</externalDeveloperName>
+    <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>
