@@ -1,0 +1,17 @@
+<apex:page standardController="Account">
+    <apex:pageBlock title="Account Summary">
+        <apex:pageBlockSection >
+            Name: {! Account.Name } <br/>
+            Phone: {! Account.Phone } <br/>
+            Industry: {! Account.Industry } <br/>
+            Revenue: {! Account.AnnualRevenue } <br/>
+        </apex:pageBlockSection>
+        <style type="text/css">
+        .asideText { font-style: italic; }
+    </style>
+    <apex:outputText style="font-weight: bold;"
+        value="This text is styled directly."/>
+    <apex:outputText styleClass="asideText"
+        value="This text is styled via a stylesheet class."/>
+    </apex:pageBlock>
+</apex:page>
