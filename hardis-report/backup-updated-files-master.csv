@@ -1,0 +1,751 @@
+File,ChangeType,FileHuman,WorkingDir,PrevName,severity,severityIcon
+Canvases/mule__dataloaderio_v2_oauth_c4s__dataloaderio_v2_oauth_c4sCanvas.Canvas-meta.xml,A,CanvasMetadata mule__dataloaderio_v2_oauth_c4s__dataloaderio_v2_oauth_c4sCanvas,,,log,📰
+apexEmailNotifications/apexEmailNotifications.notifications-meta.xml,A,apexEmailNotifications/apexEmailNotifications.notifications-meta.xml,,,log,📰
+appMenus/AppSwitcher.appMenu-meta.xml,A,AppMenu AppSwitcher,,,log,📰
+appMenus/Salesforce1.appMenu-meta.xml,A,AppMenu Salesforce1,,,log,📰
+applications/Dreamhouse.app-meta.xml,A,CustomApplication Dreamhouse,,,log,📰
+assignmentRules/Case.assignmentRules-meta.xml,A,AssignmentRules Case,,,log,📰
+assignmentRules/Lead.assignmentRules-meta.xml,A,AssignmentRules Lead,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMap.cmp,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMap.cmp,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMap.cmp-meta.xml,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMap.cmp-meta.xml,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMap.css,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMap.css,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMap.design,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMap.design,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMapController.js,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMapController.js,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMapHelper.js,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMapHelper.js,,,log,📰
+aura/auraPropertyListMap/auraPropertyListMapRenderer.js,A,AuraDefinitionBundle auraPropertyListMap/auraPropertyListMapRenderer.js,,,log,📰
+aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp,A,AuraDefinitionBundle pageTemplate_2_7_3/pageTemplate_2_7_3.cmp,,,log,📰
+aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp-meta.xml,A,AuraDefinitionBundle pageTemplate_2_7_3/pageTemplate_2_7_3.cmp-meta.xml,,,log,📰
+aura/pageTemplate_2_7_3/pageTemplate_2_7_3.design,A,AuraDefinitionBundle pageTemplate_2_7_3/pageTemplate_2_7_3.design,,,log,📰
+aura/pageTemplate_2_7_3/pageTemplate_2_7_3.svg,A,AuraDefinitionBundle pageTemplate_2_7_3/pageTemplate_2_7_3.svg,,,log,📰
+autoResponseRules/Case.autoResponseRules-meta.xml,A,AutoResponseRules Case,,,log,📰
+autoResponseRules/Lead.autoResponseRules-meta.xml,A,AutoResponseRules Lead,,,log,📰
+channelLayouts/Knowledge__kav.Channel_Mapping_Chat_Preconfigured.channelLayout-meta.xml,A,ChannelLayout Knowledge__kav.Channel_Mapping_Chat_Preconfigured,,,log,📰
+channelLayouts/Knowledge__kav.Channel_Mapping_Email_Preconfigured.channelLayout-meta.xml,A,ChannelLayout Knowledge__kav.Channel_Mapping_Email_Preconfigured,,,log,📰
+classes/FileUtilities.cls,A,ApexClass FileUtilities,,,log,📰
+classes/FileUtilities.cls-meta.xml,A,ApexClass FileUtilities,,,log,📰
+classes/FileUtilitiesTest.cls,A,ApexClass FileUtilitiesTest,,,log,📰
+classes/FileUtilitiesTest.cls-meta.xml,A,ApexClass FileUtilitiesTest,,,log,📰
+classes/GeocodingService.cls,A,ApexClass GeocodingService,,,log,📰
+classes/GeocodingService.cls-meta.xml,A,ApexClass GeocodingService,,,log,📰
+classes/GeocodingServiceTest.cls,A,ApexClass GeocodingServiceTest,,,log,📰
+classes/GeocodingServiceTest.cls-meta.xml,A,ApexClass GeocodingServiceTest,,,log,📰
+classes/PagedResult.cls,A,ApexClass PagedResult,,,log,📰
+classes/PagedResult.cls-meta.xml,A,ApexClass PagedResult,,,log,📰
+classes/PropertyController.cls,A,ApexClass PropertyController,,,log,📰
+classes/PropertyController.cls-meta.xml,A,ApexClass PropertyController,,,log,📰
+classes/SampleDataController.cls,A,ApexClass SampleDataController,,,log,📰
+classes/SampleDataController.cls-meta.xml,A,ApexClass SampleDataController,,,log,📰
+classes/TestPropertyController.cls,A,ApexClass TestPropertyController,,,log,📰
+classes/TestPropertyController.cls-meta.xml,A,ApexClass TestPropertyController,,,log,📰
+classes/TestSampleDataController.cls,A,ApexClass TestSampleDataController,,,log,📰
+classes/TestSampleDataController.cls-meta.xml,A,ApexClass TestSampleDataController,,,log,📰
+cleanDataServices/DataCloudGeoLocation.cleanDataService-meta.xml,A,CleanDataService DataCloudGeoLocation,,,log,📰
+communities/Internal Zone.community-meta.xml,A,Community Internal Zone,,,log,📰
+contentassets/BOTanicals.asset,A,ContentAsset BOTanicals,,,log,📰
+contentassets/BOTanicals.asset-meta.xml,A,ContentAsset BOTanicals,,,log,📰
+contentassets/dreamhouselogo.asset,A,ContentAsset dreamhouselogo,,,log,📰
+contentassets/dreamhouselogo.asset-meta.xml,A,ContentAsset dreamhouselogo,,,log,📰
+contentassets/dreamhouselogosquare.asset,A,ContentAsset dreamhouselogosquare,,,log,📰
+contentassets/dreamhouselogosquare.asset-meta.xml,A,ContentAsset dreamhouselogosquare,,,log,📰
+customPermissions/Onboarding_Lead.customPermission-meta.xml,A,CustomPermission Onboarding_Lead,,,log,📰
+dataSources/OrderDB.dataSource-meta.xml,A,ExternalDataSource OrderDB,,,log,📰
+email/Discount_Request_Responses.emailFolder-meta.xml,A,EmailTemplate Discount_Request_ResponsesFolder-meta.xml,,,log,📰
+email/Discount_Request_Responses/Discount_Approved.email,A,EmailTemplate Discount_Request_Responses/Discount_Approved,,,log,📰
+email/Discount_Request_Responses/Discount_Approved.email-meta.xml,A,EmailTemplate Discount_Request_Responses/Discount_Approved,,,log,📰
+email/Discount_Request_Responses/Discount_Rejected.email,A,EmailTemplate Discount_Request_Responses/Discount_Rejected,,,log,📰
+email/Discount_Request_Responses/Discount_Rejected.email-meta.xml,A,EmailTemplate Discount_Request_Responses/Discount_Rejected,,,log,📰
+email/unfiled$public/Account_Change_1711303166509.email,A,EmailTemplate unfiled$public/Account_Change_1711303166509,,,log,📰
+email/unfiled$public/Account_Change_1711303166509.email-meta.xml,A,EmailTemplate unfiled$public/Account_Change_1711303166509,,,log,📰
+email/unfiled$public/Case_Assigned_Sample_1714601664572.email,A,EmailTemplate unfiled$public/Case_Assigned_Sample_1714601664572,,,log,📰
+email/unfiled$public/Case_Assigned_Sample_1714601664572.email-meta.xml,A,EmailTemplate unfiled$public/Case_Assigned_Sample_1714601664572,,,log,📰
+email/unfiled$public/Case_Closed_Sample_1714601664740.email,A,EmailTemplate unfiled$public/Case_Closed_Sample_1714601664740,,,log,📰
+email/unfiled$public/Case_Closed_Sample_1714601664740.email-meta.xml,A,EmailTemplate unfiled$public/Case_Closed_Sample_1714601664740,,,log,📰
+email/unfiled$public/Case_Created_or_Updated_Sample_1714601664399.email,A,EmailTemplate unfiled$public/Case_Created_or_Updated_Sample_1714601664399,,,log,📰
+email/unfiled$public/Case_Created_or_Updated_Sample_1714601664399.email-meta.xml,A,EmailTemplate unfiled$public/Case_Created_or_Updated_Sample_1714601664399,,,log,📰
+email/unfiled$public/CommerceReorderPortalInvitation.email,A,EmailTemplate unfiled$public/CommerceReorderPortalInvitation,,,log,📰
+email/unfiled$public/CommerceReorderPortalInvitation.email-meta.xml,A,EmailTemplate unfiled$public/CommerceReorderPortalInvitation,,,log,📰
+email/unfiled$public/Email_to_Case_Sample_1714601664634.email,A,EmailTemplate unfiled$public/Email_to_Case_Sample_1714601664634,,,log,📰
+email/unfiled$public/Email_to_Case_Sample_1714601664634.email-meta.xml,A,EmailTemplate unfiled$public/Email_to_Case_Sample_1714601664634,,,log,📰
+email/unfiled$public/MarketingProductInquiryResponse.email,A,EmailTemplate unfiled$public/MarketingProductInquiryResponse,,,log,📰
+email/unfiled$public/MarketingProductInquiryResponse.email-meta.xml,A,EmailTemplate unfiled$public/MarketingProductInquiryResponse,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE.email,A,EmailTemplate unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE.email-meta.xml,A,EmailTemplate unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE.email,A,EmailTemplate unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE.email-meta.xml,A,EmailTemplate unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE.email,A,EmailTemplate unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE,,,log,📰
+email/unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE.email-meta.xml,A,EmailTemplate unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE,,,log,📰
+email/unfiled$public/SalesNewCustomerEmail.email,A,EmailTemplate unfiled$public/SalesNewCustomerEmail,,,log,📰
+email/unfiled$public/SalesNewCustomerEmail.email-meta.xml,A,EmailTemplate unfiled$public/SalesNewCustomerEmail,,,log,📰
+email/unfiled$public/SupportCaseAssignmentNotification.email,A,EmailTemplate unfiled$public/SupportCaseAssignmentNotification,,,log,📰
+email/unfiled$public/SupportCaseAssignmentNotification.email-meta.xml,A,EmailTemplate unfiled$public/SupportCaseAssignmentNotification,,,log,📰
+email/unfiled$public/SupportCaseCreatedPhoneInquiries.email,A,EmailTemplate unfiled$public/SupportCaseCreatedPhoneInquiries,,,log,📰
+email/unfiled$public/SupportCaseCreatedPhoneInquiries.email-meta.xml,A,EmailTemplate unfiled$public/SupportCaseCreatedPhoneInquiries,,,log,📰
+email/unfiled$public/SupportCaseCreatedWebInquiries.email,A,EmailTemplate unfiled$public/SupportCaseCreatedWebInquiries,,,log,📰
+email/unfiled$public/SupportCaseCreatedWebInquiries.email-meta.xml,A,EmailTemplate unfiled$public/SupportCaseCreatedWebInquiries,,,log,📰
+email/unfiled$public/SupportCaseResponse.email,A,EmailTemplate unfiled$public/SupportCaseResponse,,,log,📰
+email/unfiled$public/SupportCaseResponse.email-meta.xml,A,EmailTemplate unfiled$public/SupportCaseResponse,,,log,📰
+email/unfiled$public/SupportEscalatedCaseNotification.email,A,EmailTemplate unfiled$public/SupportEscalatedCaseNotification,,,log,📰
+email/unfiled$public/SupportEscalatedCaseNotification.email-meta.xml,A,EmailTemplate unfiled$public/SupportEscalatedCaseNotification,,,log,📰
+email/unfiled$public/SupportEscalatedCaseReassignment.email,A,EmailTemplate unfiled$public/SupportEscalatedCaseReassignment,,,log,📰
+email/unfiled$public/SupportEscalatedCaseReassignment.email-meta.xml,A,EmailTemplate unfiled$public/SupportEscalatedCaseReassignment,,,log,📰
+email/unfiled$public/SupportSelfServiceNewLoginandPassword.email,A,EmailTemplate unfiled$public/SupportSelfServiceNewLoginandPassword,,,log,📰
+email/unfiled$public/SupportSelfServiceNewLoginandPassword.email-meta.xml,A,EmailTemplate unfiled$public/SupportSelfServiceNewLoginandPassword,,,log,📰
+email/unfiled$public/SupportSelfServiceResetPassword.email,A,EmailTemplate unfiled$public/SupportSelfServiceResetPassword,,,log,📰
+email/unfiled$public/SupportSelfServiceResetPassword.email-meta.xml,A,EmailTemplate unfiled$public/SupportSelfServiceResetPassword,,,log,📰
+email/unfiled$public/Web_to_Case_Sample_1714601664689.email,A,EmailTemplate unfiled$public/Web_to_Case_Sample_1714601664689,,,log,📰
+email/unfiled$public/Web_to_Case_Sample_1714601664689.email-meta.xml,A,EmailTemplate unfiled$public/Web_to_Case_Sample_1714601664689,,,log,📰
+emailservices/EmailToCase.xml-meta.xml,A,EmailServicesFunction EmailToCase,,,log,📰
+entitlementProcesses/standard case.entitlementProcess-meta.xml,A,EntitlementProcess standard case,,,log,📰
+escalationRules/Case.escalationRules-meta.xml,A,EscalationRules Case,,,log,📰
+flexipages/Broker_Record_Page.flexipage-meta.xml,A,FlexiPage Broker_Record_Page,,,log,📰
+flexipages/Property_Explorer.flexipage-meta.xml,A,FlexiPage Property_Explorer,,,log,📰
+flexipages/Property_Finder.flexipage-meta.xml,A,FlexiPage Property_Finder,,,log,📰
+flexipages/Property_Record_Page.flexipage-meta.xml,A,FlexiPage Property_Record_Page,,,log,📰
+flexipages/Settings.flexipage-meta.xml,A,FlexiPage Settings,,,log,📰
+flowDefinitions/Add_Generator_Product_to_Named_Opps.flowDefinition-meta.xml,A,FlowDefinition Add_Generator_Product_to_Named_Opps,,,log,📰
+flowDefinitions/Add_VIP_to_Description.flowDefinition-meta.xml,A,FlowDefinition Add_VIP_to_Description,,,log,📰
+flowDefinitions/Case_Priority_is_High.flowDefinition-meta.xml,A,FlowDefinition Case_Priority_is_High,,,log,📰
+flowDefinitions/Check_New_Lead_for_Matching_Account.flowDefinition-meta.xml,A,FlowDefinition Check_New_Lead_for_Matching_Account,,,log,📰
+flowDefinitions/Convert_to_Customer.flowDefinition-meta.xml,A,FlowDefinition Convert_to_Customer,,,log,📰
+flowDefinitions/Copy_Account_Phone_to_New_Contact.flowDefinition-meta.xml,A,FlowDefinition Copy_Account_Phone_to_New_Contact,,,log,📰
+flowDefinitions/Create_Follow_Up_on_New_Prospect.flowDefinition-meta.xml,A,FlowDefinition Create_Follow_Up_on_New_Prospect,,,log,📰
+flowDefinitions/Create_Follow_Up_with_Decision_Maker.flowDefinition-meta.xml,A,FlowDefinition Create_Follow_Up_with_Decision_Maker,,,log,📰
+flowDefinitions/Create_property.flowDefinition-meta.xml,A,FlowDefinition Create_property,,,log,📰
+flowDefinitions/Fetch_Related_Records.flowDefinition-meta.xml,A,FlowDefinition Fetch_Related_Records,,,log,📰
+flowDefinitions/Load_Sample_Data.flowDefinition-meta.xml,A,FlowDefinition Load_Sample_Data,,,log,📰
+flowDefinitions/Onboarding_Project_Initiation.flowDefinition-meta.xml,A,FlowDefinition Onboarding_Project_Initiation,,,log,📰
+flowDefinitions/Post_to_Chatter.flowDefinition-meta.xml,A,FlowDefinition Post_to_Chatter,,,log,📰
+flowDefinitions/Post_to_Chatter_on_Account_Change_en_send_email.flowDefinition-meta.xml,A,FlowDefinition Post_to_Chatter_on_Account_Change_en_send_email,,,log,📰
+flowDefinitions/Review_Opportunity_with_Account_Owner.flowDefinition-meta.xml,A,FlowDefinition Review_Opportunity_with_Account_Owner,,,log,📰
+flowDefinitions/Set_Case_Priority.flowDefinition-meta.xml,A,FlowDefinition Set_Case_Priority,,,log,📰
+flowDefinitions/Subflow_Create_Generator_Opp_Product.flowDefinition-meta.xml,A,FlowDefinition Subflow_Create_Generator_Opp_Product,,,log,📰
+flowDefinitions/Test6.flowDefinition-meta.xml,A,FlowDefinition Test6,,,log,📰
+flowDefinitions/Variables.flowDefinition-meta.xml,A,FlowDefinition Variables,,,log,📰
+flowDefinitions/test.flowDefinition-meta.xml,A,FlowDefinition test,,,log,📰
+flowDefinitions/test2.flowDefinition-meta.xml,A,FlowDefinition test2,,,log,📰
+flowDefinitions/test_chatter.flowDefinition-meta.xml,A,FlowDefinition test_chatter,,,log,📰
+flows/Add_Generator_Product_to_Named_Opps.flow-meta.xml,A,Flow Add_Generator_Product_to_Named_Opps,,,log,📰
+flows/Add_VIP_to_Description.flow-meta.xml,A,Flow Add_VIP_to_Description,,,log,📰
+flows/Case_Priority_is_High.flow-meta.xml,A,Flow Case_Priority_is_High,,,log,📰
+flows/Check_New_Lead_for_Matching_Account.flow-meta.xml,A,Flow Check_New_Lead_for_Matching_Account,,,log,📰
+flows/Convert_to_Customer.flow-meta.xml,A,Flow Convert_to_Customer,,,log,📰
+flows/Copy_Account_Phone_to_New_Contact.flow-meta.xml,A,Flow Copy_Account_Phone_to_New_Contact,,,log,📰
+flows/Create_Follow_Up_on_New_Prospect.flow-meta.xml,A,Flow Create_Follow_Up_on_New_Prospect,,,log,📰
+flows/Create_Follow_Up_with_Decision_Maker.flow-meta.xml,A,Flow Create_Follow_Up_with_Decision_Maker,,,log,📰
+flows/Create_property.flow-meta.xml,A,Flow Create_property,,,log,📰
+flows/Fetch_Related_Records.flow-meta.xml,A,Flow Fetch_Related_Records,,,log,📰
+flows/Load_Sample_Data.flow-meta.xml,A,Flow Load_Sample_Data,,,log,📰
+flows/Onboarding_Project_Initiation.flow-meta.xml,A,Flow Onboarding_Project_Initiation,,,log,📰
+flows/Post_to_Chatter.flow-meta.xml,A,Flow Post_to_Chatter,,,log,📰
+flows/Post_to_Chatter_on_Account_Change_en_send_email.flow-meta.xml,A,Flow Post_to_Chatter_on_Account_Change_en_send_email,,,log,📰
+flows/Review_Opportunity_with_Account_Owner.flow-meta.xml,A,Flow Review_Opportunity_with_Account_Owner,,,log,📰
+flows/Set_Case_Priority.flow-meta.xml,A,Flow Set_Case_Priority,,,log,📰
+flows/Subflow_Create_Generator_Opp_Product.flow-meta.xml,A,Flow Subflow_Create_Generator_Opp_Product,,,log,📰
+flows/Test6.flow-meta.xml,A,Flow Test6,,,log,📰
+flows/Variables.flow-meta.xml,A,Flow Variables,,,log,📰
+flows/test.flow-meta.xml,A,Flow test,,,log,📰
+flows/test2.flow-meta.xml,A,Flow test2,,,log,📰
+flows/test_chatter.flow-meta.xml,A,Flow test_chatter,,,log,📰
+globalValueSets/Competitor.globalValueSet-meta.xml,A,GlobalValueSet Competitor,,,log,📰
+groups/Lead_Routing.group-meta.xml,A,Group Lead_Routing,,,log,📰
+homePageLayouts/DE Default.homePageLayout-meta.xml,A,HomePageLayout DE Default,,,log,📰
+iframeWhiteListUrlSettings/IframeWhiteListUrlSettings.iframeWhiteListUrlSettings-meta.xml,A,IframeWhiteListUrlSettings IframeWhiteListUrlSettings,,,log,📰
+layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml," ",Layout Account-Account %28Marketing%29 Layout,M,,log,📰
+layouts/Account-Account %28Sales%29 Layout.layout-meta.xml," ",Layout Account-Account %28Sales%29 Layout,M,,log,📰
+layouts/Account-Account %28Support%29 Layout.layout-meta.xml," ",Layout Account-Account %28Support%29 Layout,M,,log,📰
+layouts/Account-Account Layout %28BOTanicals%29.layout-meta.xml," ",Layout Account-Account Layout %28BOTanicals%29,M,,log,📰
+layouts/Account-Account Layout.layout-meta.xml," ",Layout Account-Account Layout,M,,log,📰
+layouts/Broker__c-Broker Layout.layout-meta.xml,A,Layout Broker__c-Broker Layout,,,log,📰
+layouts/Property__c-Property Layout.layout-meta.xml,A,Layout Property__c-Property Layout,,,log,📰
+lwc/barcodeScanner/barcodeScanner.html,A,LightningComponentBundle barcodeScanner/barcodeScanner.html,,,log,📰
+lwc/barcodeScanner/barcodeScanner.js,A,LightningComponentBundle barcodeScanner/barcodeScanner.js,,,log,📰
+lwc/barcodeScanner/barcodeScanner.js-meta.xml,A,LightningComponentBundle barcodeScanner/barcodeScanner.js-meta.xml,,,log,📰
+lwc/bikeCard/bikeCard.html,A,LightningComponentBundle bikeCard/bikeCard.html,,,log,📰
+lwc/bikeCard/bikeCard.js,A,LightningComponentBundle bikeCard/bikeCard.js,,,log,📰
+lwc/bikeCard/bikeCard.js-meta.xml,A,LightningComponentBundle bikeCard/bikeCard.js-meta.xml,,,log,📰
+lwc/bonjour/bonjour.css,A,LightningComponentBundle bonjour/bonjour.css,,,log,📰
+lwc/bonjour/bonjour.html,A,LightningComponentBundle bonjour/bonjour.html,,,log,📰
+lwc/bonjour/bonjour.js,A,LightningComponentBundle bonjour/bonjour.js,,,log,📰
+lwc/bonjour/bonjour.js-meta.xml,A,LightningComponentBundle bonjour/bonjour.js-meta.xml,,,log,📰
+lwc/brokerCard/brokerCard.html,A,LightningComponentBundle brokerCard/brokerCard.html,,,log,📰
+lwc/brokerCard/brokerCard.js,A,LightningComponentBundle brokerCard/brokerCard.js,,,log,📰
+lwc/brokerCard/brokerCard.js-meta.xml,A,LightningComponentBundle brokerCard/brokerCard.js-meta.xml,,,log,📰
+lwc/data/data.js,A,LightningComponentBundle data/data.js,,,log,📰
+lwc/data/data.js-meta.xml,A,LightningComponentBundle data/data.js-meta.xml,,,log,📰
+lwc/daysOnMarket/daysOnMarket.css,A,LightningComponentBundle daysOnMarket/daysOnMarket.css,,,log,📰
+lwc/daysOnMarket/daysOnMarket.html,A,LightningComponentBundle daysOnMarket/daysOnMarket.html,,,log,📰
+lwc/daysOnMarket/daysOnMarket.js,A,LightningComponentBundle daysOnMarket/daysOnMarket.js,,,log,📰
+lwc/daysOnMarket/daysOnMarket.js-meta.xml,A,LightningComponentBundle daysOnMarket/daysOnMarket.js-meta.xml,,,log,📰
+lwc/detail/detail.css,A,LightningComponentBundle detail/detail.css,,,log,📰
+lwc/detail/detail.html,A,LightningComponentBundle detail/detail.html,,,log,📰
+lwc/detail/detail.js,A,LightningComponentBundle detail/detail.js,,,log,📰
+lwc/detail/detail.js-meta.xml,A,LightningComponentBundle detail/detail.js-meta.xml,,,log,📰
+lwc/errorPanel/errorPanel.js,A,LightningComponentBundle errorPanel/errorPanel.js,,,log,📰
+lwc/errorPanel/errorPanel.js-meta.xml,A,LightningComponentBundle errorPanel/errorPanel.js-meta.xml,,,log,📰
+lwc/errorPanel/templates/inlineMessage.html,A,LightningComponentBundle errorPanel/templates/inlineMessage.html,,,log,📰
+lwc/errorPanel/templates/noDataIllustration.html,A,LightningComponentBundle errorPanel/templates/noDataIllustration.html,,,log,📰
+lwc/helloWorld/helloWorld.html,A,LightningComponentBundle helloWorld/helloWorld.html,,,log,📰
+lwc/helloWorld/helloWorld.js,A,LightningComponentBundle helloWorld/helloWorld.js,,,log,📰
+lwc/helloWorld/helloWorld.js-meta.xml,A,LightningComponentBundle helloWorld/helloWorld.js-meta.xml,,,log,📰
+lwc/housingMap/housingMap.html,A,LightningComponentBundle housingMap/housingMap.html,,,log,📰
+lwc/housingMap/housingMap.js,A,LightningComponentBundle housingMap/housingMap.js,,,log,📰
+lwc/housingMap/housingMap.js-meta.xml,A,LightningComponentBundle housingMap/housingMap.js-meta.xml,,,log,📰
+lwc/ldsUtils/ldsUtils.js,A,LightningComponentBundle ldsUtils/ldsUtils.js,,,log,📰
+lwc/ldsUtils/ldsUtils.js-meta.xml,A,LightningComponentBundle ldsUtils/ldsUtils.js-meta.xml,,,log,📰
+lwc/list/list.css,A,LightningComponentBundle list/list.css,,,log,📰
+lwc/list/list.html,A,LightningComponentBundle list/list.html,,,log,📰
+lwc/list/list.js,A,LightningComponentBundle list/list.js,,,log,📰
+lwc/list/list.js-meta.xml,A,LightningComponentBundle list/list.js-meta.xml,,,log,📰
+lwc/listContactsFromDevice/listContactsFromDevice.html,A,LightningComponentBundle listContactsFromDevice/listContactsFromDevice.html,,,log,📰
+lwc/listContactsFromDevice/listContactsFromDevice.js,A,LightningComponentBundle listContactsFromDevice/listContactsFromDevice.js,,,log,📰
+lwc/listContactsFromDevice/listContactsFromDevice.js-meta.xml,A,LightningComponentBundle listContactsFromDevice/listContactsFromDevice.js-meta.xml,,,log,📰
+lwc/navigateToRecord/navigateToRecord.html,A,LightningComponentBundle navigateToRecord/navigateToRecord.html,,,log,📰
+lwc/navigateToRecord/navigateToRecord.js,A,LightningComponentBundle navigateToRecord/navigateToRecord.js,,,log,📰
+lwc/navigateToRecord/navigateToRecord.js-meta.xml,A,LightningComponentBundle navigateToRecord/navigateToRecord.js-meta.xml,,,log,📰
+lwc/paginator/paginator.html,A,LightningComponentBundle paginator/paginator.html,,,log,📰
+lwc/paginator/paginator.js,A,LightningComponentBundle paginator/paginator.js,,,log,📰
+lwc/paginator/paginator.js-meta.xml,A,LightningComponentBundle paginator/paginator.js-meta.xml,,,log,📰
+lwc/propertyCarousel/propertyCarousel.html,A,LightningComponentBundle propertyCarousel/propertyCarousel.html,,,log,📰
+lwc/propertyCarousel/propertyCarousel.js,A,LightningComponentBundle propertyCarousel/propertyCarousel.js,,,log,📰
+lwc/propertyCarousel/propertyCarousel.js-meta.xml,A,LightningComponentBundle propertyCarousel/propertyCarousel.js-meta.xml,,,log,📰
+lwc/propertyFilter/propertyFilter.html,A,LightningComponentBundle propertyFilter/propertyFilter.html,,,log,📰
+lwc/propertyFilter/propertyFilter.js,A,LightningComponentBundle propertyFilter/propertyFilter.js,,,log,📰
+lwc/propertyFilter/propertyFilter.js-meta.xml,A,LightningComponentBundle propertyFilter/propertyFilter.js-meta.xml,,,log,📰
+lwc/propertyLocation/propertyLocation.html,A,LightningComponentBundle propertyLocation/propertyLocation.html,,,log,📰
+lwc/propertyLocation/propertyLocation.js,A,LightningComponentBundle propertyLocation/propertyLocation.js,,,log,📰
+lwc/propertyLocation/propertyLocation.js-meta.xml,A,LightningComponentBundle propertyLocation/propertyLocation.js-meta.xml,,,log,📰
+lwc/propertyMap/propertyMap.html,A,LightningComponentBundle propertyMap/propertyMap.html,,,log,📰
+lwc/propertyMap/propertyMap.js,A,LightningComponentBundle propertyMap/propertyMap.js,,,log,📰
+lwc/propertyMap/propertyMap.js-meta.xml,A,LightningComponentBundle propertyMap/propertyMap.js-meta.xml,,,log,📰
+lwc/propertySummary/propertySummary.html,A,LightningComponentBundle propertySummary/propertySummary.html,,,log,📰
+lwc/propertySummary/propertySummary.js,A,LightningComponentBundle propertySummary/propertySummary.js,,,log,📰
+lwc/propertySummary/propertySummary.js-meta.xml,A,LightningComponentBundle propertySummary/propertySummary.js-meta.xml,,,log,📰
+lwc/propertyTile/propertyTile.css,A,LightningComponentBundle propertyTile/propertyTile.css,,,log,📰
+lwc/propertyTile/propertyTile.html,A,LightningComponentBundle propertyTile/propertyTile.html,,,log,📰
+lwc/propertyTile/propertyTile.js,A,LightningComponentBundle propertyTile/propertyTile.js,,,log,📰
+lwc/propertyTile/propertyTile.js-meta.xml,A,LightningComponentBundle propertyTile/propertyTile.js-meta.xml,,,log,📰
+lwc/propertyTileList/propertyTileList.css,A,LightningComponentBundle propertyTileList/propertyTileList.css,,,log,📰
+lwc/propertyTileList/propertyTileList.html,A,LightningComponentBundle propertyTileList/propertyTileList.html,,,log,📰
+lwc/propertyTileList/propertyTileList.js,A,LightningComponentBundle propertyTileList/propertyTileList.js,,,log,📰
+lwc/propertyTileList/propertyTileList.js-meta.xml,A,LightningComponentBundle propertyTileList/propertyTileList.js-meta.xml,,,log,📰
+lwc/sampleDataImporter/sampleDataImporter.html,A,LightningComponentBundle sampleDataImporter/sampleDataImporter.html,,,log,📰
+lwc/sampleDataImporter/sampleDataImporter.js,A,LightningComponentBundle sampleDataImporter/sampleDataImporter.js,,,log,📰
+lwc/sampleDataImporter/sampleDataImporter.js-meta.xml,A,LightningComponentBundle sampleDataImporter/sampleDataImporter.js-meta.xml,,,log,📰
+lwc/selector/selector.css,A,LightningComponentBundle selector/selector.css,,,log,📰
+lwc/selector/selector.html,A,LightningComponentBundle selector/selector.html,,,log,📰
+lwc/selector/selector.js,A,LightningComponentBundle selector/selector.js,,,log,📰
+lwc/selector/selector.js-meta.xml,A,LightningComponentBundle selector/selector.js-meta.xml,,,log,📰
+lwc/tile/tile.css,A,LightningComponentBundle tile/tile.css,,,log,📰
+lwc/tile/tile.html,A,LightningComponentBundle tile/tile.html,,,log,📰
+lwc/tile/tile.js,A,LightningComponentBundle tile/tile.js,,,log,📰
+lwc/tile/tile.js-meta.xml,A,LightningComponentBundle tile/tile.js-meta.xml,,,log,📰
+managedContentTypes/cms_document.managedContentType-meta.xml,A,ManagedContentType cms_document,,,log,📰
+managedContentTypes/cms_image.managedContentType-meta.xml,A,ManagedContentType cms_image,,,log,📰
+managedContentTypes/news.managedContentType-meta.xml,A,ManagedContentType news,,,log,📰
+matchingRules/Account.matchingRule-meta.xml,A,MatchingRules Account,,,log,📰
+matchingRules/Contact.matchingRule-meta.xml,A,MatchingRules Contact,,,log,📰
+matchingRules/Individual.matchingRule-meta.xml,A,MatchingRules Individual,,,log,📰
+matchingRules/Lead.matchingRule-meta.xml,A,MatchingRules Lead,,,log,📰
+messageChannels/FiltersChange.messageChannel-meta.xml,A,LightningMessageChannel FiltersChange,,,log,📰
+messageChannels/PropertySelected.messageChannel-meta.xml,A,LightningMessageChannel PropertySelected,,,log,📰
+milestoneTypes/Close Case.milestoneType-meta.xml,A,MilestoneType Close Case,,,log,📰
+milestoneTypes/Escalate Case.milestoneType-meta.xml,A,MilestoneType Escalate Case,,,log,📰
+milestoneTypes/First Response to Customer.milestoneType-meta.xml,A,MilestoneType First Response to Customer,,,log,📰
+notificationTypeConfig/NotificationTypeConfig.config-meta.xml,A,NotificationTypeConfig NotificationTypeConfig,,,log,📰
+objectTranslations/Broker__c-en_US/Broker_Id__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Broker_Id__c,,,log,📰
+objectTranslations/Broker__c-en_US/Broker__c-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Broker__c-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/Broker__c-en_US/Email__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Email__c,,,log,📰
+objectTranslations/Broker__c-en_US/Mobile_Phone__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Mobile_Phone__c,,,log,📰
+objectTranslations/Broker__c-en_US/Phone__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Phone__c,,,log,📰
+objectTranslations/Broker__c-en_US/Picture_IMG__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Picture_IMG__c,,,log,📰
+objectTranslations/Broker__c-en_US/Picture__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Picture__c,,,log,📰
+objectTranslations/Broker__c-en_US/Title__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Broker__c-en_US/Title__c,,,log,📰
+objectTranslations/House__c-en_US/Address__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Address__c,,,log,📰
+objectTranslations/House__c-en_US/Bathrooms__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Bathrooms__c,,,log,📰
+objectTranslations/House__c-en_US/Bedroom__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Bedroom__c,,,log,📰
+objectTranslations/House__c-en_US/City__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/City__c,,,log,📰
+objectTranslations/House__c-en_US/House__c-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/House__c-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/House__c-en_US/Picture__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Picture__c,,,log,📰
+objectTranslations/House__c-en_US/Price__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Price__c,,,log,📰
+objectTranslations/House__c-en_US/State__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/State__c,,,log,📰
+objectTranslations/House__c-en_US/Zip__c.fieldTranslation-meta.xml,A,CustomObjectTranslation House__c-en_US/Zip__c,,,log,📰
+objectTranslations/Knowledge__kav-en_US/Content__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Knowledge__kav-en_US/Content__c,,,log,📰
+objectTranslations/Knowledge__kav-en_US/DigitalEngagementResponse__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Knowledge__kav-en_US/DigitalEngagementResponse__c,,,log,📰
+objectTranslations/Knowledge__kav-en_US/InternalNotes__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Knowledge__kav-en_US/InternalNotes__c,,,log,📰
+objectTranslations/Knowledge__kav-en_US/Knowledge__kav-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation Knowledge__kav-en_US/Knowledge__kav-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/Knowledge__kav-en_US/Question__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Knowledge__kav-en_US/Question__c,,,log,📰
+objectTranslations/OrderDetail__x-en_US/OrderDetail__x-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/OrderDetail__x-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/OrderDetail__x-en_US/orderID__c.fieldTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/orderID__c,,,log,📰
+objectTranslations/OrderDetail__x-en_US/orderLine__c.fieldTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/orderLine__c,,,log,📰
+objectTranslations/OrderDetail__x-en_US/product__c.fieldTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/product__c,,,log,📰
+objectTranslations/OrderDetail__x-en_US/quantity__c.fieldTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/quantity__c,,,log,📰
+objectTranslations/OrderDetail__x-en_US/unitPrice__c.fieldTranslation-meta.xml,A,CustomObjectTranslation OrderDetail__x-en_US/unitPrice__c,,,log,📰
+objectTranslations/Order__x-en_US/Order__x-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation Order__x-en_US/Order__x-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/Order__x-en_US/customerID__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Order__x-en_US/customerID__c,,,log,📰
+objectTranslations/Order__x-en_US/orderDate__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Order__x-en_US/orderDate__c,,,log,📰
+objectTranslations/Order__x-en_US/orderID__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Order__x-en_US/orderID__c,,,log,📰
+objectTranslations/Order__x-en_US/shippedDate__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Order__x-en_US/shippedDate__c,,,log,📰
+objectTranslations/Property__c-en_US/Address__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Address__c,,,log,📰
+objectTranslations/Property__c-en_US/Assessed_Value__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Assessed_Value__c,,,log,📰
+objectTranslations/Property__c-en_US/Baths__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Baths__c,,,log,📰
+objectTranslations/Property__c-en_US/Beds__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Beds__c,,,log,📰
+objectTranslations/Property__c-en_US/Broker__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Broker__c,,,log,📰
+objectTranslations/Property__c-en_US/City__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/City__c,,,log,📰
+objectTranslations/Property__c-en_US/Date_Agreement__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Date_Agreement__c,,,log,📰
+objectTranslations/Property__c-en_US/Date_Closed__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Date_Closed__c,,,log,📰
+objectTranslations/Property__c-en_US/Date_Contracted__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Date_Contracted__c,,,log,📰
+objectTranslations/Property__c-en_US/Date_Listed__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Date_Listed__c,,,log,📰
+objectTranslations/Property__c-en_US/Date_Pre_Market__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Date_Pre_Market__c,,,log,📰
+objectTranslations/Property__c-en_US/Days_On_Market__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Days_On_Market__c,,,log,📰
+objectTranslations/Property__c-en_US/Description__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Description__c,,,log,📰
+objectTranslations/Property__c-en_US/Location__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Location__c,,,log,📰
+objectTranslations/Property__c-en_US/Picture_IMG__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Picture_IMG__c,,,log,📰
+objectTranslations/Property__c-en_US/Picture__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Picture__c,,,log,📰
+objectTranslations/Property__c-en_US/Price_Sold__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Price_Sold__c,,,log,📰
+objectTranslations/Property__c-en_US/Price__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Price__c,,,log,📰
+objectTranslations/Property__c-en_US/Property__c-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Property__c-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/Property__c-en_US/Record_Link__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Record_Link__c,,,log,📰
+objectTranslations/Property__c-en_US/State__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/State__c,,,log,📰
+objectTranslations/Property__c-en_US/Status__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Status__c,,,log,📰
+objectTranslations/Property__c-en_US/Tags__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Tags__c,,,log,📰
+objectTranslations/Property__c-en_US/Thumbnail_IMG__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Thumbnail_IMG__c,,,log,📰
+objectTranslations/Property__c-en_US/Thumbnail__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Thumbnail__c,,,log,📰
+objectTranslations/Property__c-en_US/Zip__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Property__c-en_US/Zip__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/End_Time__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/End_Time__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Rider_Account__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Rider_Account__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Rider_History__b-en_US.objectTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Rider_History__b-en_US.objectTranslation-meta.xml,,,log,📰
+objectTranslations/Rider_History__b-en_US/Rider_Rating__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Rider_Rating__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Service_Type__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Service_Type__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Start_Location_Latitude__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Start_Location_Latitude__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Start_Location_Longitude__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Start_Location_Longitude__c,,,log,📰
+objectTranslations/Rider_History__b-en_US/Start_Time__c.fieldTranslation-meta.xml,A,CustomObjectTranslation Rider_History__b-en_US/Start_Time__c,,,log,📰
+objects/Account/fields/Active__c.field-meta.xml," ",CustomField Active__c,M,,log,📰
+objects/Account/fields/CustomerPriority__c.field-meta.xml," ",CustomField CustomerPriority__c,M,,log,📰
+objects/Account/fields/Founding_Date__c.field-meta.xml," ",CustomField Founding_Date__c,M,,log,📰
+objects/Account/fields/Match_Billing_Address__c.field-meta.xml," ",CustomField Match_Billing_Address__c,M,,log,📰
+objects/Account/fields/SB_Test__c.field-meta.xml," ",CustomField SB_Test__c,M,,log,📰
+objects/Account/fields/SLAExpirationDate__c.field-meta.xml," ",CustomField SLAExpirationDate__c,M,,log,📰
+objects/Account/fields/SLA__c.field-meta.xml," ",CustomField SLA__c,M,,log,📰
+objects/Account/fields/StartDate__c.field-meta.xml," ",CustomField StartDate__c,M,,log,📰
+objects/Account/fields/Top_Account__c.field-meta.xml," ",CustomField Top_Account__c,M,,log,📰
+objects/Account/fields/UpsellOpportunity__c.field-meta.xml," ",CustomField UpsellOpportunity__c,M,,log,📰
+objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml," ",CustomField Mobile_Phone__c,M,,log,📰
+objects/Broker__c/fields/Phone__c.field-meta.xml," ",CustomField Phone__c,M,,log,📰
+objects/Broker__c/fields/Picture__c.field-meta.xml," ",CustomField Picture__c,M,,log,📰
+objects/Case/fields/Has_Extended_Warranty__c.field-meta.xml," ",CustomField Has_Extended_Warranty__c,M,,log,📰
+objects/Case/fields/PotentialLiability__c.field-meta.xml," ",CustomField PotentialLiability__c,M,,log,📰
+objects/Case/fields/Product_Purchase_Date__c.field-meta.xml," ",CustomField Product_Purchase_Date__c,M,,log,📰
+objects/Case/fields/Product__c.field-meta.xml," ",CustomField Product__c,M,,log,📰
+objects/Case/fields/SLAViolation__c.field-meta.xml," ",CustomField SLAViolation__c,M,,log,📰
+objects/Case/fields/Warranty_Summary__c.field-meta.xml," ",CustomField Warranty_Summary__c,M,,log,📰
+objects/Contact/fields/Level__c.field-meta.xml," ",CustomField Level__c,M,,log,📰
+objects/Contact/fields/Prequalifie__c.field-meta.xml," ",CustomField Prequalifie__c,M,,log,📰
+objects/House__c/fields/Picture__c.field-meta.xml," ",CustomField Picture__c,M,,log,📰
+objects/Knowledge__kav/fields/Content__c.field-meta.xml," ",CustomField Content__c,M,,log,📰
+objects/Knowledge__kav/fields/InternalNotes__c.field-meta.xml," ",CustomField InternalNotes__c,M,,log,📰
+objects/Knowledge__kav/fields/Question__c.field-meta.xml," ",CustomField Question__c,M,,log,📰
+objects/Lead/fields/Competitor_1_Price__c.field-meta.xml," ",CustomField Competitor_1_Price__c,M,,log,📰
+objects/Lead/fields/Competitor_1__c.field-meta.xml," ",CustomField Competitor_1__c,M,,log,📰
+objects/Lead/fields/Competitor_2_Price__c.field-meta.xml," ",CustomField Competitor_2_Price__c,M,,log,📰
+objects/Lead/fields/Competitor_2__c.field-meta.xml," ",CustomField Competitor_2__c,M,,log,📰
+objects/Lead/fields/Competitor_3_Price__c.field-meta.xml," ",CustomField Competitor_3_Price__c,M,,log,📰
+objects/Lead/fields/Competitor_3__c.field-meta.xml," ",CustomField Competitor_3__c,M,,log,📰
+objects/Lead/fields/Lead_Competitor__c.field-meta.xml," ",CustomField Lead_Competitor__c,M,,log,📰
+objects/Lead/fields/Lead_Name_Competitor__c.field-meta.xml," ",CustomField Lead_Name_Competitor__c,M,,log,📰
+objects/Lead/fields/Possible_Matching_Account__c.field-meta.xml," ",CustomField Possible_Matching_Account__c,M,,log,📰
+objects/Lead/fields/Primary__c.field-meta.xml," ",CustomField Primary__c,M,,log,📰
+objects/Lead/fields/ProductInterest__c.field-meta.xml," ",CustomField ProductInterest__c,M,,log,📰
+objects/Opportunity/fields/Approval_Status__c.field-meta.xml," ",CustomField Approval_Status__c,M,,log,📰
+objects/Opportunity/fields/DeliveryInstallationStatus__c.field-meta.xml," ",CustomField DeliveryInstallationStatus__c,M,,log,📰
+objects/Opportunity/fields/Discount_Percentage__c.field-meta.xml," ",CustomField Discount_Percentage__c,M,,log,📰
+objects/OrderDetail__x/fields/orderID__c.field-meta.xml," ",CustomField orderID__c,M,,log,📰
+objects/OrderItem/fields/colorTheme__c.field-meta.xml," ",CustomField colorTheme__c,M,,log,📰
+objects/OrderItem/fields/fragrance__c.field-meta.xml," ",CustomField fragrance__c,M,,log,📰
+objects/OrderItem/fields/glow__c.field-meta.xml," ",CustomField glow__c,M,,log,📰
+objects/OrderItem/fields/percentOfOpening__c.field-meta.xml," ",CustomField percentOfOpening__c,M,,log,📰
+objects/Order__x/fields/customerID__c.field-meta.xml," ",CustomField customerID__c,M,,log,📰
+objects/Order__x/fields/orderDate__c.field-meta.xml," ",CustomField orderDate__c,M,,log,📰
+objects/Order__x/fields/shippedDate__c.field-meta.xml," ",CustomField shippedDate__c,M,,log,📰
+objects/Pricebook2/fields/Region__c.field-meta.xml," ",CustomField Region__c,M,,log,📰
+objects/Product2/fields/Ground_mount__c.field-meta.xml," ",CustomField Ground_mount__c,M,,log,📰
+objects/Product2/fields/colorTheme__c.field-meta.xml," ",CustomField colorTheme__c,M,,log,📰
+objects/Product2/fields/fragrance__c.field-meta.xml," ",CustomField fragrance__c,M,,log,📰
+objects/Product2/fields/glow__c.field-meta.xml," ",CustomField glow__c,M,,log,📰
+objects/Product2/fields/percentOfOpening__c.field-meta.xml," ",CustomField percentOfOpening__c,M,,log,📰
+objects/Property__c/fields/Assessed_Value__c.field-meta.xml," ",CustomField Assessed_Value__c,M,,log,📰
+objects/Property__c/fields/Broker__c.field-meta.xml," ",CustomField Broker__c,M,,log,📰
+objects/Property__c/fields/Date_Agreement__c.field-meta.xml," ",CustomField Date_Agreement__c,M,,log,📰
+objects/Property__c/fields/Date_Closed__c.field-meta.xml," ",CustomField Date_Closed__c,M,,log,📰
+objects/Property__c/fields/Date_Contracted__c.field-meta.xml," ",CustomField Date_Contracted__c,M,,log,📰
+objects/Property__c/fields/Date_Listed__c.field-meta.xml," ",CustomField Date_Listed__c,M,,log,📰
+objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml," ",CustomField Date_Pre_Market__c,M,,log,📰
+objects/Property__c/fields/Description__c.field-meta.xml," ",CustomField Description__c,M,,log,📰
+objects/Property__c/fields/Location__c.field-meta.xml," ",CustomField Location__c,M,,log,📰
+objects/Property__c/fields/Picture__c.field-meta.xml," ",CustomField Picture__c,M,,log,📰
+objects/Property__c/fields/Price_Sold__c.field-meta.xml," ",CustomField Price_Sold__c,M,,log,📰
+objects/Property__c/fields/Price__c.field-meta.xml," ",CustomField Price__c,M,,log,📰
+objects/Property__c/fields/Status__c.field-meta.xml," ",CustomField Status__c,M,,log,📰
+objects/Property__c/fields/Thumbnail__c.field-meta.xml," ",CustomField Thumbnail__c,M,,log,📰
+objects/Rider_History__b/fields/End_Time__c.field-meta.xml," ",CustomField End_Time__c,M,,log,📰
+objects/Rider_History__b/fields/Start_Time__c.field-meta.xml," ",CustomField Start_Time__c,M,,log,📰
+permissionsets/API_Uuniquement.permissionset-meta.xml,A,PermissionSet API_Uuniquement,,,log,📰
+permissionsets/Knowledge_Manager_120993.permissionset-meta.xml,A,PermissionSet Knowledge_Manager_120993,,,log,📰
+permissionsets/dreamhouse.permissionset-meta.xml,A,PermissionSet dreamhouse,,,log,📰
+permissionsets/sfdcInternalInt__sfdc_activityplatform.permissionset-meta.xml,A,PermissionSet sfdcInternalInt__sfdc_activityplatform,,,log,📰
+permissionsets/sfdcInternalInt__sfdc_scrt2.permissionset-meta.xml,A,PermissionSet sfdcInternalInt__sfdc_scrt2,,,log,📰
+permissionsets/test.permissionset-meta.xml,A,PermissionSet test,,,log,📰
+presenceUserConfigs/default_presence_config.presenceUserConfig-meta.xml,A,PresenceUserConfig default_presence_config,,,log,📰
+profilePasswordPolicies/Admin_profilePasswordPolicy1707511537582.profilePasswordPolicy-meta.xml,A,ProfilePasswordPolicy Admin_profilePasswordPolicy1707511537582,,,log,📰
+profilePasswordPolicies/PT1_profilePasswordPolicy1479361192949.profilePasswordPolicy-meta.xml,A,ProfilePasswordPolicy PT1_profilePasswordPolicy1479361192949,,,log,📰
+profileSessionSettings/PT1_profileSessionSetting1479361192857.profileSessionSetting-meta.xml,A,ProfileSessionSetting PT1_profileSessionSetting1479361192857,,,log,📰
+profileSessionSettings/null_profileSessionSetting1707511537616.profileSessionSetting-meta.xml,A,ProfileSessionSetting null_profileSessionSetting1707511537616,,,log,📰
+profiles/Admin.profile-meta.xml,A,Profile Admin,,,log,📰
+profiles/Analytics Cloud Integration User.profile-meta.xml,A,Profile Analytics Cloud Integration User,,,log,📰
+profiles/Analytics Cloud Security User.profile-meta.xml,A,Profile Analytics Cloud Security User,,,log,📰
+profiles/Anypoint Integration.profile-meta.xml,A,Profile Anypoint Integration,,,log,📰
+profiles/Authenticated Website.profile-meta.xml,A,Profile Authenticated Website,,,log,📰
+profiles/B2B Reordering Portal Buyer Profile.profile-meta.xml,A,Profile B2B Reordering Portal Buyer Profile,,,log,📰
+profiles/Chatter External User.profile-meta.xml,A,Profile Chatter External User,,,log,📰
+profiles/Chatter Free User.profile-meta.xml,A,Profile Chatter Free User,,,log,📰
+profiles/Chatter Moderator User.profile-meta.xml,A,Profile Chatter Moderator User,,,log,📰
+profiles/ContractManager.profile-meta.xml,A,Profile ContractManager,,,log,📰
+profiles/Cross Org Data Proxy User.profile-meta.xml,A,Profile Cross Org Data Proxy User,,,log,📰
+profiles/Custom%3A Marketing Profile.profile-meta.xml,A,Profile Custom%3A Marketing Profile,,,log,📰
+profiles/Custom%3A Sales Profile.profile-meta.xml,A,Profile Custom%3A Sales Profile,,,log,📰
+profiles/Custom%3A Support Profile.profile-meta.xml,A,Profile Custom%3A Support Profile,,,log,📰
+profiles/Customer Community Login User.profile-meta.xml,A,Profile Customer Community Login User,,,log,📰
+profiles/Customer Community Plus Login User.profile-meta.xml,A,Profile Customer Community Plus Login User,,,log,📰
+profiles/Customer Community Plus User.profile-meta.xml,A,Profile Customer Community Plus User,,,log,📰
+profiles/Customer Community User.profile-meta.xml,A,Profile Customer Community User,,,log,📰
+profiles/Customer Portal Manager Custom.profile-meta.xml,A,Profile Customer Portal Manager Custom,,,log,📰
+profiles/Customer Portal Manager Standard.profile-meta.xml,A,Profile Customer Portal Manager Standard,,,log,📰
+profiles/External Apps Login User.profile-meta.xml,A,Profile External Apps Login User,,,log,📰
+profiles/External Identity User.profile-meta.xml,A,Profile External Identity User,,,log,📰
+profiles/Force%2Ecom - App Subscription User.profile-meta.xml,A,Profile Force%2Ecom - App Subscription User,,,log,📰
+profiles/Force%2Ecom - Free User.profile-meta.xml,A,Profile Force%2Ecom - Free User,,,log,📰
+profiles/Gold Partner User.profile-meta.xml,A,Profile Gold Partner User,,,log,📰
+profiles/High Volume Customer Portal User.profile-meta.xml,A,Profile High Volume Customer Portal User,,,log,📰
+profiles/HighVolumePortal.profile-meta.xml,A,Profile HighVolumePortal,,,log,📰
+profiles/Identity User.profile-meta.xml,A,Profile Identity User,,,log,📰
+profiles/Knowledge Manager.profile-meta.xml,A,Profile Knowledge Manager,,,log,📰
+profiles/MarketingProfile.profile-meta.xml,A,Profile MarketingProfile,,,log,📰
+profiles/Minimum Access - API Only Integrations.profile-meta.xml,A,Profile Minimum Access - API Only Integrations,,,log,📰
+profiles/Minimum Access - Salesforce.profile-meta.xml,A,Profile Minimum Access - Salesforce,,,log,📰
+profiles/Partner App Subscription User.profile-meta.xml,A,Profile Partner App Subscription User,,,log,📰
+profiles/Partner Community Login User.profile-meta.xml,A,Profile Partner Community Login User,,,log,📰
+profiles/Partner Community User.profile-meta.xml,A,Profile Partner Community User,,,log,📰
+profiles/PlatformPortal.profile-meta.xml,A,Profile PlatformPortal,,,log,📰
+profiles/Read Only.profile-meta.xml,A,Profile Read Only,,,log,📰
+profiles/Sales Profile.profile-meta.xml,A,Profile Sales Profile,,,log,📰
+profiles/Salesforce API Only System Integrations.profile-meta.xml,A,Profile Salesforce API Only System Integrations,,,log,📰
+profiles/Service Agent.profile-meta.xml,A,Profile Service Agent,,,log,📰
+profiles/Service Supervisor.profile-meta.xml,A,Profile Service Supervisor,,,log,📰
+profiles/Silver Partner User.profile-meta.xml,A,Profile Silver Partner User,,,log,📰
+profiles/SolutionManager.profile-meta.xml,A,Profile SolutionManager,,,log,📰
+profiles/Standard.profile-meta.xml,A,Profile Standard,,,log,📰
+profiles/StandardAul.profile-meta.xml,A,Profile StandardAul,,,log,📰
+profiles/Work%2Ecom Only User.profile-meta.xml,A,Profile Work%2Ecom Only User,,,log,📰
+prompts/Property.prompt-meta.xml,A,Prompt Property,,,log,📰
+prompts/PropertyExplorer.prompt-meta.xml,A,Prompt PropertyExplorer,,,log,📰
+prompts/PropertyFinder.prompt-meta.xml,A,Prompt PropertyFinder,,,log,📰
+quickActions/Case.LogACall.quickAction-meta.xml,A,QuickAction Case.LogACall,,,log,📰
+quickActions/Case.NewChildCase.quickAction-meta.xml,A,QuickAction Case.NewChildCase,,,log,📰
+quickActions/Case.SendEmail.quickAction-meta.xml,A,QuickAction Case.SendEmail,,,log,📰
+quickActions/Case.Update_Status.quickAction-meta.xml,A,QuickAction Case.Update_Status,,,log,📰
+quickActions/CollaborationGroup.NewGroupMember.quickAction-meta.xml,A,QuickAction CollaborationGroup.NewGroupMember,,,log,📰
+quickActions/CollaborationGroup.NewGroupRecord.quickAction-meta.xml,A,QuickAction CollaborationGroup.NewGroupRecord,,,log,📰
+quickActions/FeedItem.NewTaskFromFeedItem.quickAction-meta.xml,A,QuickAction FeedItem.NewTaskFromFeedItem,,,log,📰
+quickActions/KnowledgeArticlePreconfigured.quickAction-meta.xml,A,QuickAction KnowledgeArticlePreconfigured,,,log,📰
+quickActions/LogACall.quickAction-meta.xml,A,QuickAction LogACall,,,log,📰
+quickActions/NewAccount.quickAction-meta.xml,A,QuickAction NewAccount,,,log,📰
+quickActions/NewCase.quickAction-meta.xml,A,QuickAction NewCase,,,log,📰
+quickActions/NewContact.quickAction-meta.xml,A,QuickAction NewContact,,,log,📰
+quickActions/NewEvent.quickAction-meta.xml,A,QuickAction NewEvent,,,log,📰
+quickActions/NewGroup.quickAction-meta.xml,A,QuickAction NewGroup,,,log,📰
+quickActions/NewLead.quickAction-meta.xml,A,QuickAction NewLead,,,log,📰
+quickActions/NewNote.quickAction-meta.xml,A,QuickAction NewNote,,,log,📰
+quickActions/NewOpportunity.quickAction-meta.xml,A,QuickAction NewOpportunity,,,log,📰
+quickActions/NewTask.quickAction-meta.xml,A,QuickAction NewTask,,,log,📰
+quickActions/Quote.SendEmail.quickAction-meta.xml,A,QuickAction Quote.SendEmail,,,log,📰
+quickActions/SendEmail.quickAction-meta.xml,A,QuickAction SendEmail,,,log,📰
+quickActions/Task.Defer.quickAction-meta.xml,A,QuickAction Task.Defer,,,log,📰
+quickActions/Task.Defer_0.quickAction-meta.xml,A,QuickAction Task.Defer_0,,,log,📰
+quickActions/Task.EditDescription.quickAction-meta.xml,A,QuickAction Task.EditDescription,,,log,📰
+quickActions/Task.EditDescription_0.quickAction-meta.xml,A,QuickAction Task.EditDescription_0,,,log,📰
+quickActions/Task.UpdatePriority.quickAction-meta.xml,A,QuickAction Task.UpdatePriority,,,log,📰
+quickActions/Task.UpdatePriority_0.quickAction-meta.xml,A,QuickAction Task.UpdatePriority_0,,,log,📰
+quickActions/Task.UpdateStatus.quickAction-meta.xml,A,QuickAction Task.UpdateStatus,,,log,📰
+quickActions/Task.UpdateStatus_0.quickAction-meta.xml,A,QuickAction Task.UpdateStatus_0,,,log,📰
+recordActionDeployments/setup_service_experience_SupportFlows.deployment-meta.xml,A,RecordActionDeployment setup_service_experience_SupportFlows,,,log,📰
+remoteSiteSettings/ApexDevNet.remoteSite-meta.xml,A,RemoteSiteSetting ApexDevNet,,,log,📰
+remoteSiteSettings/nominatim_openstreetmap.remoteSite-meta.xml,A,RemoteSiteSetting nominatim_openstreetmap,,,log,📰
+reports/EBotR_v3.reportFolder-meta.xml,A,Report EBotR_v3Folder-meta.xml,,,log,📰
+reports/EBotR_v4.reportFolder-meta.xml,A,Report EBotR_v4Folder-meta.xml,,,log,📰
+reports/EinsteinBotReports.reportFolder-meta.xml,A,Report EinsteinBotReportsFolder-meta.xml,,,log,📰
+reports/EinsteinBotReports_v2.reportFolder-meta.xml,A,Report EinsteinBotReports_v2Folder-meta.xml,,,log,📰
+reports/unfiled$public/flow_orchestration_log_ootb_report_two_four_eight.report-meta.xml,A,Report unfiled$public/flow_orchestration_log_ootb_report_two_four_eight,,,log,📰
+reports/unfiled$public/flow_orchestration_run_ootb_report_two_four_eight.report-meta.xml,A,Report unfiled$public/flow_orchestration_run_ootb_report_two_four_eight,,,log,📰
+reports/unfiled$public/flow_orchestration_stage_run_ootb_report_two_four_eight.report-meta.xml,A,Report unfiled$public/flow_orchestration_stage_run_ootb_report_two_four_eight,,,log,📰
+reports/unfiled$public/flow_orchestration_step_run_ootb_report_two_four_eight.report-meta.xml,A,Report unfiled$public/flow_orchestration_step_run_ootb_report_two_four_eight,,,log,📰
+reports/unfiled$public/flow_orchestration_work_item_ootb_report_two_four_eight.report-meta.xml,A,Report unfiled$public/flow_orchestration_work_item_ootb_report_two_four_eight,,,log,📰
+reports/unfiled$public/flow_screen_prebuilt_report.report-meta.xml,A,Report unfiled$public/flow_screen_prebuilt_report,,,log,📰
+samlssoconfigs/trailhead_SAML_SSO_Setting.samlssoconfig-meta.xml,A,SamlSsoConfig trailhead_SAML_SSO_Setting,,,log,📰
+searchCustomizations/testderecherche.searchCustomization-meta.xml,A,searchCustomizations/testderecherche.searchCustomization-meta.xml,,,log,📰
+serviceChannels/sfdc_livemessage.serviceChannel-meta.xml,A,ServiceChannel sfdc_livemessage,,,log,📰
+serviceChannels/web.serviceChannel-meta.xml,A,ServiceChannel web,,,log,📰
+servicePresenceStatuses/Busy.servicePresenceStatus-meta.xml,A,ServicePresenceStatus Busy,,,log,📰
+settings/Account.settings-meta.xml,A,Settings Account,,,log,📰
+settings/AccountIntelligence.settings-meta.xml,A,Settings AccountIntelligence,,,log,📰
+settings/Actions.settings-meta.xml,A,Settings Actions,,,log,📰
+settings/Activities.settings-meta.xml,A,Settings Activities,,,log,📰
+settings/Address.settings-meta.xml,A,Settings Address,,,log,📰
+settings/AgentforceForDevelopers.settings-meta.xml,A,Settings AgentforceForDevelopers,,,log,📰
+settings/Ai4m.settings-meta.xml,A,Settings Ai4m,,,log,📰
+settings/Analytics.settings-meta.xml,A,Settings Analytics,,,log,📰
+settings/Apex.settings-meta.xml,A,Settings Apex,,,log,📰
+settings/AppAnalytics.settings-meta.xml,A,Settings AppAnalytics,,,log,📰
+settings/AppExperience.settings-meta.xml,A,Settings AppExperience,,,log,📰
+settings/Blockchain.settings-meta.xml,A,Settings Blockchain,,,log,📰
+settings/Bot.settings-meta.xml,A,Settings Bot,,,log,📰
+settings/BusinessHours.settings-meta.xml,A,Settings BusinessHours,,,log,📰
+settings/Campaign.settings-meta.xml,A,Settings Campaign,,,log,📰
+settings/Case.settings-meta.xml,A,Settings Case,,,log,📰
+settings/Chatter.settings-meta.xml,A,Settings Chatter,,,log,📰
+settings/ChatterEmailsMD.settings-meta.xml,A,Settings ChatterEmailsMD,,,log,📰
+settings/Commerce.settings-meta.xml,A,Settings Commerce,,,log,📰
+settings/Communities.settings-meta.xml,A,Settings Communities,,,log,📰
+settings/Company.settings-meta.xml,A,Settings Company,,,log,📰
+settings/ConnectedApp.settings-meta.xml,A,Settings ConnectedApp,,,log,📰
+settings/Content.settings-meta.xml,A,Settings Content,,,log,📰
+settings/Contract.settings-meta.xml,A,Settings Contract,,,log,📰
+settings/ConversationalIntelligence.settings-meta.xml,A,Settings ConversationalIntelligence,,,log,📰
+settings/Currency.settings-meta.xml,A,Settings Currency,,,log,📰
+settings/CustomAddressField.settings-meta.xml,A,Settings CustomAddressField,,,log,📰
+settings/CustomerDataPlatform.settings-meta.xml,A,Settings CustomerDataPlatform,,,log,📰
+settings/CustomizablePropensityScoring.settings-meta.xml,A,Settings CustomizablePropensityScoring,,,log,📰
+settings/DataDotCom.settings-meta.xml,A,Settings DataDotCom,,,log,📰
+settings/Deployment.settings-meta.xml,A,Settings Deployment,,,log,📰
+settings/DevHub.settings-meta.xml,A,Settings DevHub,,,log,📰
+settings/Discovery.settings-meta.xml,A,Settings Discovery,,,log,📰
+settings/DocumentChecklist.settings-meta.xml,A,Settings DocumentChecklist,,,log,📰
+settings/DynamicForms.settings-meta.xml,A,Settings DynamicForms,,,log,📰
+settings/EAC.settings-meta.xml,A,Settings EAC,,,log,📰
+settings/EinsteinDealInsights.settings-meta.xml,A,Settings EinsteinDealInsights,,,log,📰
+settings/EinsteinDocumentCapture.settings-meta.xml,A,Settings EinsteinDocumentCapture,,,log,📰
+settings/EmailAdministration.settings-meta.xml,A,Settings EmailAdministration,,,log,📰
+settings/EmailIntegration.settings-meta.xml,A,Settings EmailIntegration,,,log,📰
+settings/EmailTemplate.settings-meta.xml,A,Settings EmailTemplate,,,log,📰
+settings/EmployeeFieldAccess.settings-meta.xml,A,Settings EmployeeFieldAccess,,,log,📰
+settings/EmployeeUser.settings-meta.xml,A,Settings EmployeeUser,,,log,📰
+settings/EncryptionKey.settings-meta.xml,A,Settings EncryptionKey,,,log,📰
+settings/EnhancedNotes.settings-meta.xml,A,Settings EnhancedNotes,,,log,📰
+settings/Entitlement.settings-meta.xml,A,Settings Entitlement,,,log,📰
+settings/Essentials.settings-meta.xml,A,Settings Essentials,,,log,📰
+settings/Event.settings-meta.xml,A,Settings Event,,,log,📰
+settings/ExperienceBundle.settings-meta.xml,A,Settings ExperienceBundle,,,log,📰
+settings/ExternalClientApp.settings-meta.xml,A,Settings ExternalClientApp,,,log,📰
+settings/FieldService.settings-meta.xml,A,Settings FieldService,,,log,📰
+settings/FileUploadAndDownloadSecurity.settings-meta.xml,A,Settings FileUploadAndDownloadSecurity,,,log,📰
+settings/FilesConnect.settings-meta.xml,A,Settings FilesConnect,,,log,📰
+settings/Flow.settings-meta.xml,A,Settings Flow,,,log,📰
+settings/Forecasting.settings-meta.xml,A,Settings Forecasting,,,log,📰
+settings/Formula.settings-meta.xml,A,Settings Formula,,,log,📰
+settings/GoogleApps.settings-meta.xml,A,Settings GoogleApps,,,log,📰
+settings/HighVelocitySales.settings-meta.xml,A,Settings HighVelocitySales,,,log,📰
+settings/Ideas.settings-meta.xml,A,Settings Ideas,,,log,📰
+settings/IdentityProvider.settings-meta.xml,A,Settings IdentityProvider,,,log,📰
+settings/IncidentMgmt.settings-meta.xml,A,Settings IncidentMgmt,,,log,📰
+settings/Industries.settings-meta.xml,A,Settings Industries,,,log,📰
+settings/IndustriesEinsteinFeature.settings-meta.xml,A,Settings IndustriesEinsteinFeature,,,log,📰
+settings/InvocableAction.settings-meta.xml,A,Settings InvocableAction,,,log,📰
+settings/IoT.settings-meta.xml,A,Settings IoT,,,log,📰
+settings/Knowledge.settings-meta.xml,A,Settings Knowledge,,,log,📰
+settings/KnowledgeGeneration.settings-meta.xml,A,Settings KnowledgeGeneration,,,log,📰
+settings/Language.settings-meta.xml,A,Settings Language,,,log,📰
+settings/LeadConfig.settings-meta.xml,A,Settings LeadConfig,,,log,📰
+settings/LightningExperience.settings-meta.xml,A,Settings LightningExperience,,,log,📰
+settings/LiveAgent.settings-meta.xml,A,Settings LiveAgent,,,log,📰
+settings/Macro.settings-meta.xml,A,Settings Macro,,,log,📰
+settings/MailMerge.settings-meta.xml,A,Settings MailMerge,,,log,📰
+settings/Meetings.settings-meta.xml,A,Settings Meetings,,,log,📰
+settings/Mobile.settings-meta.xml,A,Settings Mobile,,,log,📰
+settings/MyDomain.settings-meta.xml,A,Settings MyDomain,,,log,📰
+settings/Name.settings-meta.xml,A,Settings Name,,,log,📰
+settings/Notifications.settings-meta.xml,A,Settings Notifications,,,log,📰
+settings/OauthOidc.settings-meta.xml,A,Settings OauthOidc,,,log,📰
+settings/ObjectLinking.settings-meta.xml,A,Settings ObjectLinking,,,log,📰
+settings/OmniChannel.settings-meta.xml,A,Settings OmniChannel,,,log,📰
+settings/OmniChannelPricing.settings-meta.xml,A,Settings OmniChannelPricing,,,log,📰
+settings/Opportunity.settings-meta.xml,A,Settings Opportunity,,,log,📰
+settings/Order.settings-meta.xml,A,Settings Order,,,log,📰
+settings/OrderManagement.settings-meta.xml,A,Settings OrderManagement,,,log,📰
+settings/Org.settings-meta.xml,A,Settings Org,,,log,📰
+settings/Pardot.settings-meta.xml,A,Settings Pardot,,,log,📰
+settings/PardotEinstein.settings-meta.xml,A,Settings PardotEinstein,,,log,📰
+settings/PartyDataModel.settings-meta.xml,A,Settings PartyDataModel,,,log,📰
+settings/PathAssistant.settings-meta.xml,A,Settings PathAssistant,,,log,📰
+settings/Payments.settings-meta.xml,A,Settings Payments,,,log,📰
+settings/PaymentsManagementEnabled.settings-meta.xml,A,Settings PaymentsManagementEnabled,,,log,📰
+settings/Picklist.settings-meta.xml,A,Settings Picklist,,,log,📰
+settings/PlatformEncryption.settings-meta.xml,A,Settings PlatformEncryption,,,log,📰
+settings/PlatformEvent.settings-meta.xml,A,Settings PlatformEvent,,,log,📰
+settings/Portals.settings-meta.xml,A,Settings Portals,,,log,📰
+settings/PredictionBuilder.settings-meta.xml,A,Settings PredictionBuilder,,,log,📰
+settings/Privacy.settings-meta.xml,A,Settings Privacy,,,log,📰
+settings/Product.settings-meta.xml,A,Settings Product,,,log,📰
+settings/ProductDiscovery.settings-meta.xml,A,Settings ProductDiscovery,,,log,📰
+settings/QuickText.settings-meta.xml,A,Settings QuickText,,,log,📰
+settings/Quote.settings-meta.xml,A,Settings Quote,,,log,📰
+settings/RealTimeEvent.settings-meta.xml,A,Settings RealTimeEvent,,,log,📰
+settings/RecommendationBuilder.settings-meta.xml,A,Settings RecommendationBuilder,,,log,📰
+settings/RecordPage.settings-meta.xml,A,Settings RecordPage,,,log,📰
+settings/RetailExecution.settings-meta.xml,A,Settings RetailExecution,,,log,📰
+settings/Sandbox.settings-meta.xml,A,Settings Sandbox,,,log,📰
+settings/SceGlobalModelOptOut.settings-meta.xml,A,Settings SceGlobalModelOptOut,,,log,📰
+settings/Schema.settings-meta.xml,A,Settings Schema,,,log,📰
+settings/Search.settings-meta.xml,A,Settings Search,,,log,📰
+settings/Security.settings-meta.xml,A,Settings Security,,,log,📰
+settings/ServiceCloudVoice.settings-meta.xml,A,Settings ServiceCloudVoice,,,log,📰
+settings/ServiceSetupAssistant.settings-meta.xml,A,Settings ServiceSetupAssistant,,,log,📰
+settings/Sharing.settings-meta.xml,A,Settings Sharing,,,log,📰
+settings/Site.settings-meta.xml,A,Settings Site,,,log,📰
+settings/SourceTracking.settings-meta.xml,A,Settings SourceTracking,,,log,📰
+settings/Survey.settings-meta.xml,A,Settings Survey,,,log,📰
+settings/SystemNotification.settings-meta.xml,A,Settings SystemNotification,,,log,📰
+settings/Territory2.settings-meta.xml,A,Settings Territory2,,,log,📰
+settings/Trailhead.settings-meta.xml,A,Settings Trailhead,,,log,📰
+settings/TrialOrg.settings-meta.xml,A,Settings TrialOrg,,,log,📰
+settings/UserEngagement.settings-meta.xml,A,Settings UserEngagement,,,log,📰
+settings/UserInterface.settings-meta.xml,A,Settings UserInterface,,,log,📰
+settings/UserManagement.settings-meta.xml,A,Settings UserManagement,,,log,📰
+settings/Voice.settings-meta.xml,A,Settings Voice,,,log,📰
+settings/WebToX.settings-meta.xml,A,Settings WebToX,,,log,📰
+settings/WorkDotCom.settings-meta.xml,A,Settings WorkDotCom,,,log,📰
+sharingRules/Broker__c.sharingRules-meta.xml,A,SharingRules Broker__c,,,log,📰
+sharingRules/Property__c.sharingRules-meta.xml,A,SharingRules Property__c,,,log,📰
+standardValueSets/AccountContactRole.standardValueSet-meta.xml,A,StandardValueSet AccountContactRole,,,log,📰
+standardValueSets/AccountOwnership.standardValueSet-meta.xml,A,StandardValueSet AccountOwnership,,,log,📰
+standardValueSets/AccountRating.standardValueSet-meta.xml,A,StandardValueSet AccountRating,,,log,📰
+standardValueSets/AccountType.standardValueSet-meta.xml,A,StandardValueSet AccountType,,,log,📰
+standardValueSets/AssetStatus.standardValueSet-meta.xml,A,StandardValueSet AssetStatus,,,log,📰
+standardValueSets/CampaignMemberStatus.standardValueSet-meta.xml,A,StandardValueSet CampaignMemberStatus,,,log,📰
+standardValueSets/CampaignStatus.standardValueSet-meta.xml,A,StandardValueSet CampaignStatus,,,log,📰
+standardValueSets/CampaignType.standardValueSet-meta.xml,A,StandardValueSet CampaignType,,,log,📰
+standardValueSets/CaseContactRole.standardValueSet-meta.xml,A,StandardValueSet CaseContactRole,,,log,📰
+standardValueSets/CaseOrigin.standardValueSet-meta.xml,A,StandardValueSet CaseOrigin,,,log,📰
+standardValueSets/CasePriority.standardValueSet-meta.xml,A,StandardValueSet CasePriority,,,log,📰
+standardValueSets/CaseReason.standardValueSet-meta.xml,A,StandardValueSet CaseReason,,,log,📰
+standardValueSets/CaseStatus.standardValueSet-meta.xml,A,StandardValueSet CaseStatus,,,log,📰
+standardValueSets/CaseType.standardValueSet-meta.xml,A,StandardValueSet CaseType,,,log,📰
+standardValueSets/ContactRole.standardValueSet-meta.xml,A,StandardValueSet ContactRole,,,log,📰
+standardValueSets/ContractContactRole.standardValueSet-meta.xml,A,StandardValueSet ContractContactRole,,,log,📰
+standardValueSets/ContractStatus.standardValueSet-meta.xml,A,StandardValueSet ContractStatus,,,log,📰
+standardValueSets/EntitlementType.standardValueSet-meta.xml,A,StandardValueSet EntitlementType,,,log,📰
+standardValueSets/EventSubject.standardValueSet-meta.xml,A,StandardValueSet EventSubject,,,log,📰
+standardValueSets/EventType.standardValueSet-meta.xml,A,StandardValueSet EventType,,,log,📰
+standardValueSets/FiscalYearPeriodPrefix.standardValueSet-meta.xml,A,StandardValueSet FiscalYearPeriodPrefix,,,log,📰
+standardValueSets/FiscalYearQuarterName.standardValueSet-meta.xml,A,StandardValueSet FiscalYearQuarterName,,,log,📰
+standardValueSets/FiscalYearQuarterPrefix.standardValueSet-meta.xml,A,StandardValueSet FiscalYearQuarterPrefix,,,log,📰
+standardValueSets/Industry.standardValueSet-meta.xml,A,StandardValueSet Industry,,,log,📰
+standardValueSets/LeadSource.standardValueSet-meta.xml,A,StandardValueSet LeadSource,,,log,📰
+standardValueSets/LeadStatus.standardValueSet-meta.xml,A,StandardValueSet LeadStatus,,,log,📰
+standardValueSets/OpportunityStage.standardValueSet-meta.xml,A,StandardValueSet OpportunityStage,,,log,📰
+standardValueSets/OpportunityType.standardValueSet-meta.xml,A,StandardValueSet OpportunityType,,,log,📰
+standardValueSets/OrderStatus.standardValueSet-meta.xml,A,StandardValueSet OrderStatus,,,log,📰
+standardValueSets/PartnerRole.standardValueSet-meta.xml,A,StandardValueSet PartnerRole,,,log,📰
+standardValueSets/ProcessExceptionCategory.standardValueSet-meta.xml,A,StandardValueSet ProcessExceptionCategory,,,log,📰
+standardValueSets/ProcessExceptionPriority.standardValueSet-meta.xml,A,StandardValueSet ProcessExceptionPriority,,,log,📰
+standardValueSets/ProcessExceptionSeverity.standardValueSet-meta.xml,A,StandardValueSet ProcessExceptionSeverity,,,log,📰
+standardValueSets/ProcessExceptionStatus.standardValueSet-meta.xml,A,StandardValueSet ProcessExceptionStatus,,,log,📰
+standardValueSets/Product2Family.standardValueSet-meta.xml,A,StandardValueSet Product2Family,,,log,📰
+standardValueSets/QuantityUnitOfMeasure.standardValueSet-meta.xml,A,StandardValueSet QuantityUnitOfMeasure,,,log,📰
+standardValueSets/QuickTextCategory.standardValueSet-meta.xml,A,StandardValueSet QuickTextCategory,,,log,📰
+standardValueSets/QuickTextChannel.standardValueSet-meta.xml,A,StandardValueSet QuickTextChannel,,,log,📰
+standardValueSets/QuoteStatus.standardValueSet-meta.xml,A,StandardValueSet QuoteStatus,,,log,📰
+standardValueSets/Salutation.standardValueSet-meta.xml,A,StandardValueSet Salutation,,,log,📰
+standardValueSets/ServiceContractApprovalStatus.standardValueSet-meta.xml,A,StandardValueSet ServiceContractApprovalStatus,,,log,📰
+standardValueSets/SolutionStatus.standardValueSet-meta.xml,A,StandardValueSet SolutionStatus,,,log,📰
+standardValueSets/TaskPriority.standardValueSet-meta.xml,A,StandardValueSet TaskPriority,,,log,📰
+standardValueSets/TaskStatus.standardValueSet-meta.xml,A,StandardValueSet TaskStatus,,,log,📰
+standardValueSets/TaskSubject.standardValueSet-meta.xml,A,StandardValueSet TaskSubject,,,log,📰
+standardValueSets/TaskType.standardValueSet-meta.xml,A,StandardValueSet TaskType,,,log,📰
+standardValueSets/WorkOrderLineItemStatus.standardValueSet-meta.xml,A,StandardValueSet WorkOrderLineItemStatus,,,log,📰
+standardValueSets/WorkOrderPriority.standardValueSet-meta.xml,A,StandardValueSet WorkOrderPriority,,,log,📰
+standardValueSets/WorkOrderStatus.standardValueSet-meta.xml,A,StandardValueSet WorkOrderStatus,,,log,📰
+staticresources/leaflet.resource-meta.xml,A,StaticResource leaflet,,,log,📰
+staticresources/leaflet/images/layers-2x.png,A,StaticResource leaflet/images/layers-2x.png,,,log,📰
+staticresources/leaflet/images/layers.png,A,StaticResource leaflet/images/layers.png,,,log,📰
+staticresources/leaflet/images/marker-icon-2x.png,A,StaticResource leaflet/images/marker-icon-2x.png,,,log,📰
+staticresources/leaflet/images/marker-icon.png,A,StaticResource leaflet/images/marker-icon.png,,,log,📰
+staticresources/leaflet/images/marker-shadow.png,A,StaticResource leaflet/images/marker-shadow.png,,,log,📰
+staticresources/leaflet/leaflet-src.js,A,StaticResource leaflet/leaflet-src.js,,,log,📰
+staticresources/leaflet/leaflet-src.map,A,StaticResource leaflet/leaflet-src.map,,,log,📰
+staticresources/leaflet/leaflet.css,A,StaticResource leaflet/leaflet.css,,,log,📰
+staticresources/leaflet/leaflet.js,A,StaticResource leaflet/leaflet.js,,,log,📰
+staticresources/sample_data_brokers.json,A,StaticResource sample_data_brokers.json,,,log,📰
+staticresources/sample_data_brokers.resource-meta.xml,A,StaticResource sample_data_brokers,,,log,📰
+staticresources/sample_data_contacts.json,A,StaticResource sample_data_contacts.json,,,log,📰
+staticresources/sample_data_contacts.resource-meta.xml,A,StaticResource sample_data_contacts,,,log,📰
+staticresources/sample_data_properties.json,A,StaticResource sample_data_properties.json,,,log,📰
+staticresources/sample_data_properties.resource-meta.xml,A,StaticResource sample_data_properties,,,log,📰
+tabs/Broker__c.tab-meta.xml,A,CustomTab Broker__c,,,log,📰
+tabs/Property_Explorer.tab-meta.xml,A,CustomTab Property_Explorer,,,log,📰
+tabs/Property_Finder.tab-meta.xml,A,CustomTab Property_Finder,,,log,📰
+tabs/Property__c.tab-meta.xml,A,CustomTab Property__c,,,log,📰
+tabs/Settings.tab-meta.xml,A,CustomTab Settings,,,log,📰
+territory2Models/Europe/Europe.territory2Model-meta.xml,A,Territory2Model Europe/Europe,,,log,📰
+testSuites/test_exemple.testSuite-meta.xml,A,ApexTestSuite test_exemple,,,log,📰
+topicsForObjects/Account.topicsForObjects-meta.xml,A,TopicsForObjects Account,,,log,📰
+topicsForObjects/Asset.topicsForObjects-meta.xml,A,TopicsForObjects Asset,,,log,📰
+topicsForObjects/Broker__c.topicsForObjects-meta.xml,A,TopicsForObjects Broker__c,,,log,📰
+topicsForObjects/Campaign.topicsForObjects-meta.xml,A,TopicsForObjects Campaign,,,log,📰
+topicsForObjects/Case.topicsForObjects-meta.xml,A,TopicsForObjects Case,,,log,📰
+topicsForObjects/ChangeRequest.topicsForObjects-meta.xml,A,TopicsForObjects ChangeRequest,,,log,📰
+topicsForObjects/Contact.topicsForObjects-meta.xml,A,TopicsForObjects Contact,,,log,📰
+topicsForObjects/ContentDocument.topicsForObjects-meta.xml,A,TopicsForObjects ContentDocument,,,log,📰
+topicsForObjects/Contract.topicsForObjects-meta.xml,A,TopicsForObjects Contract,,,log,📰
+topicsForObjects/Event.topicsForObjects-meta.xml,A,TopicsForObjects Event,,,log,📰
+topicsForObjects/House__c.topicsForObjects-meta.xml,A,TopicsForObjects House__c,,,log,📰
+topicsForObjects/Incident.topicsForObjects-meta.xml,A,TopicsForObjects Incident,,,log,📰
+topicsForObjects/Knowledge__kav.topicsForObjects-meta.xml,A,TopicsForObjects Knowledge__kav,,,log,📰
+topicsForObjects/Lead.topicsForObjects-meta.xml,A,TopicsForObjects Lead,,,log,📰
+topicsForObjects/LinkedArticle.topicsForObjects-meta.xml,A,TopicsForObjects LinkedArticle,,,log,📰
+topicsForObjects/Opportunity.topicsForObjects-meta.xml,A,TopicsForObjects Opportunity,,,log,📰
+topicsForObjects/Order.topicsForObjects-meta.xml,A,TopicsForObjects Order,,,log,📰
+topicsForObjects/Problem.topicsForObjects-meta.xml,A,TopicsForObjects Problem,,,log,📰
+topicsForObjects/Property__c.topicsForObjects-meta.xml,A,TopicsForObjects Property__c,,,log,📰
+topicsForObjects/ServiceResource.topicsForObjects-meta.xml,A,TopicsForObjects ServiceResource,,,log,📰
+topicsForObjects/ServiceResourceSkill.topicsForObjects-meta.xml,A,TopicsForObjects ServiceResourceSkill,,,log,📰
+topicsForObjects/Solution.topicsForObjects-meta.xml,A,TopicsForObjects Solution,,,log,📰
+topicsForObjects/Task.topicsForObjects-meta.xml,A,TopicsForObjects Task,,,log,📰
+topicsForObjects/WorkOrder.topicsForObjects-meta.xml,A,TopicsForObjects WorkOrder,,,log,📰
+topicsForObjects/WorkOrderLineItem.topicsForObjects-meta.xml,A,TopicsForObjects WorkOrderLineItem,,,log,📰
+topicsForObjects/WorkPlan.topicsForObjects-meta.xml,A,TopicsForObjects WorkPlan,,,log,📰
+topicsForObjects/WorkPlanTemplate.topicsForObjects-meta.xml,A,TopicsForObjects WorkPlanTemplate,,,log,📰
+topicsForObjects/WorkPlanTemplateEntry.topicsForObjects-meta.xml,A,TopicsForObjects WorkPlanTemplateEntry,,,log,📰
+topicsForObjects/WorkStep.topicsForObjects-meta.xml,A,TopicsForObjects WorkStep,,,log,📰
+topicsForObjects/WorkStepTemplate.topicsForObjects-meta.xml,A,TopicsForObjects WorkStepTemplate,,,log,📰
+translations/de.translation-meta.xml,A,Translations de,,,log,📰
+translations/en_US.translation-meta.xml,A,Translations en_US,,,log,📰
+translations/es_MX.translation-meta.xml,A,Translations es_MX,,,log,📰
+translations/fr.translation-meta.xml,A,Translations fr,,,log,📰
+translations/ja.translation-meta.xml,A,Translations ja,,,log,📰
+translations/ko.translation-meta.xml,A,Translations ko,,,log,📰
+translations/pt_BR.translation-meta.xml,A,Translations pt_BR,,,log,📰
+translations/zh_CN.translation-meta.xml,A,Translations zh_CN,,,log,📰
+useraccesspolicies/test_policy.useraccesspolicy-meta.xml,A,UserAccessPolicy test_policy,,,log,📰
+useraccesspolicies/user_ca.useraccesspolicy-meta.xml,A,UserAccessPolicy user_ca,,,log,📰
+hardis-report/legacy-api-calls-master.csv,A,hardis-report/legacy-api-calls-master.csv,,,log,📰
+hardis-report/org-limits-master.csv,A,hardis-report/org-limits-master.csv,,,log,📰
+hardis-report/release-updates-master.csv,A,hardis-report/release-updates-master.csv,,,log,📰
+hardis-report/xls/org-limits-master.xlsx,A,hardis-report/xls/org-limits-master.xlsx,,,log,📰
+hardis-report/xls/release-updates-master.xlsx,A,hardis-report/xls/release-updates-master.xlsx,,,log,📰
+installedPackages/BOTanicalsMP.json,A,InstalledPackage BOTanicalsMP.json,,,log,📰
+installedPackages/Code Builder.json,A,InstalledPackage Code Builder.json,,,log,📰
+installedPackages/DreamhouseLWC.json,A,InstalledPackage DreamhouseLWC.json,,,log,📰
+installedPackages/Einstein Article Recommendations Value.json,A,InstalledPackage Einstein Article Recommendations Value.json,,,log,📰
+installedPackages/Lightning Connect Quickstart.json,A,InstalledPackage Lightning Connect Quickstart.json,,,log,📰
+installedPackages/Salesforce Connected Apps.json,A,InstalledPackage Salesforce Connected Apps.json,,,log,📰
+installedPackages/Trailhead Playground.json,A,InstalledPackage Trailhead Playground.json,,,log,📰
+manifest/package-all-org-items.xml,A,manifest/package-all-org-items.xml,,,log,📰
+manifest/package-backup-items.xml,A,manifest/package-backup-items.xml,,,log,📰

@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Has_Extended_Warranty__c</fullName>
     <defaultValue>false</defaultValue>
-    <externalId>false</externalId>
     <label>Has Extended Warranty</label>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>

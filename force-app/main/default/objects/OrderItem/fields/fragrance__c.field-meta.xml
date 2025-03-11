@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>fragrance__c</fullName>
     <description>If the bouquet has a fragrance, what does it smell like?</description>
-    <externalId>false</externalId>
     <inlineHelpText>If the bouquet has a fragrance, what does it smell like?</inlineHelpText>
     <label>Fragrance</label>
     <required>false</required>

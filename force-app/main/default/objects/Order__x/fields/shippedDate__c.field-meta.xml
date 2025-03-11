@@ -3,7 +3,6 @@
     <fullName>shippedDate__c</fullName>
     <description>shippedDate</description>
     <externalDeveloperName>shippedDate</externalDeveloperName>
-    <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>

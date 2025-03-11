@@ -3,7 +3,6 @@
     <fullName>percentOfOpening__c</fullName>
     <defaultValue>0</defaultValue>
     <description>How open are the flowers in the bouquet?</description>
-    <externalId>false</externalId>
     <inlineHelpText>How open are the flowers in the bouquet?</inlineHelpText>
     <label>Percent of Flower Opening</label>
     <precision>18</precision>

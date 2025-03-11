@@ -3,7 +3,6 @@
     <fullName>Ground_mount__c</fullName>
     <defaultValue>false</defaultValue>
     <description>Identifies non-roof panels</description>
-    <externalId>false</externalId>
     <label>Ground-mount</label>
     <trackHistory>false</trackHistory>
     <type>Checkbox</type>
