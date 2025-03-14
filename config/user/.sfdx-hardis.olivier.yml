@@ -1,2 +1,5 @@
 installedApps:
   - git
+localStorageBranchTargets:
+  features/config/DP003: master
+sfdxPluginsStdout: "packaging \e[2m2.10.3\e[22m\nsfdmu \e[2m4.38.0\e[22m\nsfdx-git-delta \e[2m6.3.0\e[22m\nsfdx-hardis \e[2m5.21.4\e[22m\ntexei-sfdx-plugin \e[2m2.8.3\e[22m\n\e[2m\e[22m\n\e[2mUninstalled JIT Plugins:\e[22m\ncode-analyzer \e[2m5.0.0-beta.1\e[22m\ncommunity \e[2m3.3.11\e[22m\ncustom-metadata \e[2m3.3.41\e[22m\ndev \e[2m2.5.1\e[22m\ndevops-center \e[2m1.2.27\e[22m\nsignups \e[2m2.6.13\e[22m\n@salesforce/sfdx-plugin-lwc-test \e[2m1.2.1\e[22m\n@salesforce/sfdx-scanner \e[2m4.9.0\e[22m\n"
