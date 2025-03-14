@@ -18,19 +18,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomIndex</name>
+        <name>ApprovalProcess</name>
     </types>
     <types>
         <members>*</members>
@@ -38,7 +26,27 @@
     </types>
     <types>
         <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomIndex</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DuplicateRule</name>
     </types>
     <types>
         <members>*</members>
@@ -51,10 +59,6 @@
     <types>
         <members>*</members>
         <name>Layout</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>DuplicateRule</name>
     </types>
     <types>
         <members>*</members>
@@ -87,10 +91,6 @@
     <types>
         <members>*</members>
         <name>Workflow</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApprovalProcess</name>
     </types>
     <version>62.0</version>
 </Package>
